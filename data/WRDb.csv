@@ -116,7 +116,7 @@ riolu;A08 - Canyon;18.928;02/02/2013;.;Canyon;TM2;3;a
 elysix;A08 - Canyon;18.872;02/02/2013;New trick;Canyon;TM2;4;a
 riolu;A08 - Canyon;18.868;04/02/2013;.;Canyon;TM2;5;a
 riolu;A08 - Canyon;18.832;04/02/2013;.;Canyon;TM2;6;a
-Rez;A08 - Canyon;18.830;05/02/2013;.;Canyon;TM2;7;a
+rez;A08 - Canyon;18.830;05/02/2013;.;Canyon;TM2;7;a
 riolu;A08 - Canyon;18.714;27/04/2013;.;Canyon;TM2;8;a
 edk;A08 - Canyon;18.638;??/??/2013;<06/2013;Canyon;TM2;9;a
 riolu;A08 - Canyon;18.606;21/02/2014;.;Canyon;TM2;10;a
@@ -135,6 +135,15 @@ Mebe12;A08 - Canyon;18.435;16/12/2020;.;Canyon;TM2;22;a
 Mebe12;A08 - Canyon;18.426;10/12/2020;.;Canyon;TM2;23;a
 Yogosun;A08 - Canyon;18.423;05/01/2021;.;Canyon;TM2;24;a
 Mebe12;A08 - Canyon;18.418;06/01/2021;.;Canyon;TM2;25;a
+Marco;A09 - Canyon;22.67x;18/09/2011;
+riolu;A09 - Canyon;22.591;01/12/2011;
+Galaxym;A09 - Canyon;22.557;18/03/2012;
+MKiller;A09 - Canyon;22.53x;04/04/2012;New cut;
+riolu;A09 - Canyon;22.501;06/04/2012;
+riolu;A09 - Canyon;22.441;08/04/2012;
+riolu;A09 - Canyon;22.347;29/05/2013;
+riolu;A09 - Canyon;22.335;30/05/2013;
+riolu;A09 - Canyon;22.124;18/06/2017;
 riolu;A09 - Canyon;21.976;13/06/2018;.;Canyon;TM2;1;a
 Mebe12;A09 - Canyon;21.963;16/08/2020;.;Canyon;TM2;2;a
 riolu;A10 - Canyon;1:56.185;??/??/2017;.;Canyon;TM2;1;a
@@ -1522,7 +1531,7 @@ Raceta;D11 - Stadium;46.644;23/01/2020;.;Stadium;TM2;12;a
 hugo220;D11 - Stadium;46.494;28/05/2020;.;Stadium;TM2;13;a
 CarlJr;D12 - Stadium;54.533;22/06/2013;.;Stadium;TM2;1;a
 Flyer;D12 - Stadium;54.461;27/06/2013;.;Stadium;TM2;2;a
-Madzen;D12 - Stadium;54.229;01/08/2013;.;Stadium;TM2;3;a
+madzen;D12 - Stadium;54.229;01/08/2013;.;Stadium;TM2;3;a
 racehans;D12 - Stadium;53.918;02/08/2013;Sub 54;Stadium;TM2;4;a
 Demon;D12 - Stadium;54.786;01/06/2014;.;Stadium;TM2;5;a
 __;D12 - Stadium;54.807;??/05/2017;Spreadsheet;Stadium;TM2;6;a
