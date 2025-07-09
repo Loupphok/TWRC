@@ -734,18 +734,25 @@ Quentin43;E03 - Canyon;1:44.478;??/04/2018;.;Canyon;TM2;9;a
 __;E03 - Canyon;1:43.926;??/??/????;yes 2s;Canyon;TM2;10;a
 riolu;E03 - Canyon;1:41.923;08/08/2019;.;Canyon;TM2;11;a
 riolu;E03 - Canyon;1:41.060;09/08/2019;.;Canyon;TM2;12;a
-Mebe12;E03 - Canyon;1:40.745;16/09/2020;.;Canyon;TM2;13;a
-Yogosun;E03 - Canyon;1:40.605;19/09/2020;1B views on TikTok;Canyon;TM2;14;a
-Mebe12;E03 - Canyon;1:39.988;30/08/2021;.;Canyon;TM2;15;a
-riolu;E04 - Canyon;1:38.411;03/08/2019;.;Canyon;TM2;1;a
-Cloud;E04 - Canyon;1:38.385;05/09/2020;.;Canyon;TM2;2;a
-Mebe12;E04 - Canyon;1:37.603;04/11/2020;.;Canyon;TM2;3;a
-Cloud;E04 - Canyon;1:37.568;21/02/2021;.;Canyon;TM2;4;a
-Mebe12;E04 - Canyon;1:37.526;27/02/2021;.;Canyon;TM2;5;a
-Cloud;E04 - Canyon;1:37.276;25/03/2021;.;Canyon;TM2;6;a
-Mebe12;E04 - Canyon;1:36.917;31/03/2021;.;Canyon;TM2;7;a
-riolu;E05 - Canyon;12:53.915;30/07/2019;.;Canyon;TM2;1;a
-Mebe12;E05 - Canyon;12:53.717;14/09/2020;.;Canyon;TM2;2;a
+Mebe12;E03 - Canyon;1:40.745;16/09/2020;DUCK;Canyon;TM2;13;a
+Yogosun;E03 - Canyon;1:40.605;19/09/2020;1.000.000.000+ views;Canyon;TM2;14;a
+Mebe12;E03 - Canyon;1:39.988;30/08/2021;.;Canyon;TM2;15;
+riolu;E04 - Canyon;1:40.570;31/03/2013;.;Canyon;TM2;1;a
+Quentin43;E04 - Canyon;1:39.138;??/??/????;.;Canyon;TM2;2;a
+riolu;E04 - Canyon;1:37.506;10/01/2016;yes 2.6s;Canyon;TM2;3;a
+Quentin43;E04 - Canyon;1:38.478;??/05/2017;.;Canyon;TM2;4;a
+riolu;E04 - Canyon;1:38.411;03/08/2019;.;Canyon;TM2;5;a
+Cloud;E04 - Canyon;1:38.385;05/09/2020;DUCK;Canyon;TM2;6;a
+Mebe12;E04 - Canyon;1:37.603;04/11/2020;.;Canyon;TM2;7;a
+Cloud;E04 - Canyon;1:37.568;21/02/2021;.;Canyon;TM2;8;a
+Mebe12;E04 - Canyon;1:37.526;27/02/2021;.;Canyon;TM2;9;a
+Cloud;E04 - Canyon;1:37.276;25/03/2021;.;Canyon;TM2;10;a
+Mebe12;E04 - Canyon;1:36.917;31/03/2021;.;Canyon;TM2;11;a
+riolu;E05 - Canyon;13:06.893;13/04/2013;.;Canyon;TM2;1;a
+edk;E05 - Canyon;13:05.078;??/??/????;.;Canyon;TM2;2;a
+riolu;E05 - Canyon;12:58.654;15/12/2014;.;Canyon;TM2;3;a
+riolu;E05 - Canyon;12:53.915;30/07/2019;.;Canyon;TM2;4;a
+Mebe12;E05 - Canyon;12:53.717;14/09/2020;DUCK;Canyon;TM2;5;a
 riolu;A01 - Stadium;22.621;25/06/2013;.;Stadium;TM2;1;a
 Kripke;A01 - Stadium;22.590;16/08/2013;.;Stadium;TM2;2;a
 riolu;A01 - Stadium;22.597;??/??/2017;.;Stadium;TM2;3;a
@@ -903,7 +910,7 @@ Demon;A10 - Stadium;1:05.918;15/07/2013;Sub 1:06;Stadium;TM2;2;a
 Blizz;A10 - Stadium;1:05.866;20/07/2013;.;Stadium;TM2;3;a
 Tween;A10 - Stadium;1:05.744;29/07/2013;.;Stadium;TM2;4;a
 KarjeN;A10 - Stadium;1:05.344;24/09/2013;.;Stadium;TM2;5;a
-CarlJr;A10 - Stadium;1:05.465;05/06/2017;Spreadsheet;Stadium;TM2;6;a
+CarlJr;A10 - Stadium;1:05.465;05/06/2017;.;Stadium;TM2;6;a
 Raceta;A10 - Stadium;1:05.381;??/??/2018;> 04/18;Stadium;TM2;7;a
 DanikB;A10 - Stadium;1:05.301;16/12/2018;.;Stadium;TM2;8;a
 Raceta;A10 - Stadium;1:05.276;22/12/2018;.;Stadium;TM2;9;a
@@ -1018,7 +1025,7 @@ CarlJr;B01 - Stadium;34.868;??/05/2017;.;Stadium;TM2;7;a
 Vulnerra;B01 - Stadium;34.857;10/05/2017;.;Stadium;TM2;8;a
 KevinStrike;B01 - Stadium;34.626;20/05/2017;.;Stadium;TM2;9;a
 Ancaqar;B01 - Stadium;34.617;15/06/2017;.;Stadium;TM2;10;a
-__;B01 - Stadium;34.557;??/06/2017;Spreadsheet;Stadium;TM2;11;a
+__;B01 - Stadium;34.557;??/06/2017;.;Stadium;TM2;11;a
 racehans;B01 - Stadium;34.400;19/07/2017;vA;Stadium;TM2;12;a
 __;B01 - Stadium;34.334;??/08/2017;Panda/Raceta;Stadium;TM2;13;a
 Pinda;B01 - Stadium;34.258;??/??/2018;> 04/18;Stadium;TM2;14;a
@@ -1140,7 +1147,7 @@ Flyer;B07 - Stadium;32.853;19/07/2013;.;Stadium;TM2;1;a
 riolu;B07 - Stadium;32.814;20/08/2013;.;Stadium;TM2;2;a
 KarjeN;B07 - Stadium;32.788;16/09/2013;.;Stadium;TM2;3;a
 riolu;B07 - Stadium;32.765;14/02/2016;.;Stadium;TM2;4;a
-racehans;B07 - Stadium;32.806;??/05/2017;Spreadsheet;Stadium;TM2;5;a
+racehans;B07 - Stadium;32.806;??/05/2017;.;Stadium;TM2;5;a
 RotakeR;B07 - Stadium;32.803;21/06/2017;.;Stadium;TM2;6;a
 racehans;B07 - Stadium;32.780;11/07/2017;.;Stadium;TM2;7;a
 Raceta;B07 - Stadium;32.768;20/04/2018;.;Stadium;TM2;8;a
@@ -1174,8 +1181,8 @@ WiiDii;B09 - Stadium;30.161;18/08/2013;.;Stadium;TM2;2;a
 Demon;B09 - Stadium;30.050;06/10/2013;.;Stadium;TM2;3;a
 riolu;B09 - Stadium;29.842;09/12/2016;Sub 30;Stadium;TM2;4;a
 racehans;B09 - Stadium;29.865;18/07/2017;.;Stadium;TM2;5;a
-Pinda;B09 - Stadium;29.853;??/07/2017;Spreadsheet;Stadium;TM2;6;a
-Pinda;B09 - Stadium;29.840;??/08/2017;Spreadsheet;Stadium;TM2;7;a
+Pinda;B09 - Stadium;29.853;??/07/2017;.;Stadium;TM2;6;a
+Pinda;B09 - Stadium;29.840;??/08/2017;.;Stadium;TM2;7;a
 RotakeR;B09 - Stadium;29.677;04/12/2018;.;Stadium;TM2;8;a
 eprotizuu;B09 - Stadium;29.672;??/??/????;.;Stadium;TM2;9;a
 Raceta;B09 - Stadium;29.648;18/05/2019;.;Stadium;TM2;10;a
@@ -1244,7 +1251,7 @@ Blizz;B13 - Stadium;24.455;26/06/2013;.;Stadium;TM2;3;a
 CarlJr;B13 - Stadium;24.194;27/06/2013;.;Stadium;TM2;4;a
 Demon;B13 - Stadium;23.938;10/05/2014;New cut;Stadium;TM2;5;a
 Maciey;B13 - Stadium;24.025;17/06/2017;.;Stadium;TM2;6;a
-CarlJr;B13 - Stadium;23.935;??/07/2017;Spreadsheet;Stadium;TM2;7;a
+CarlJr;B13 - Stadium;23.935;??/07/2017;.;Stadium;TM2;7;a
 riolu;B13 - Stadium;23.865;??/??/2018;> 04/18;Stadium;TM2;8;a
 CarlJr;B13 - Stadium;23.848;21/12/2018;.;Stadium;TM2;9;a
 riolu;B13 - Stadium;23.722;18/05/2019;Cheated;Stadium;TM2;10;a
@@ -1263,7 +1270,7 @@ racehans;B14 - Stadium;32.339;18/08/2013;.;Stadium;TM2;5;a
 racehans;B14 - Stadium;32.289;19/08/2013;.;Stadium;TM2;6;a
 racehans;B14 - Stadium;32.280;21/08/2013;.;Stadium;TM2;7;a
 KevinStrike;B14 - Stadium;32.311;25/05/2017;.;Stadium;TM2;8;a
-Pinda;B14 - Stadium;32.228;??/07/2017;Spreadsheet;Stadium;TM2;9;a
+Pinda;B14 - Stadium;32.228;??/07/2017;.;Stadium;TM2;9;a
 BossWanted;B14 - Stadium;32.142;04/08/2017;.;Stadium;TM2;10;a
 Raceta;B14 - Stadium;32.032;02/06/2018;.;Stadium;TM2;11;a
 Pinda;B14 - Stadium;31.987;29/11/2018;Sub 32;Stadium;TM2;12;a
@@ -1286,9 +1293,9 @@ Tween;B15 - Stadium;1:05.368;23/07/2013;.;Stadium;TM2;5;a
 KevinStrike;B15 - Stadium;1:05.243;09/05/2017;.;Stadium;TM2;6;a
 hugo220;B15 - Stadium;1:05.212;23/07/2017;.;Stadium;TM2;7;a
 Maciey;B15 - Stadium;1:05.177;29/07/2017;.;Stadium;TM2;8;a
-CarlJr;B15 - Stadium;1:05.136;??/07/2017;Spreadsheet;Stadium;TM2;9;a
-RotakeR;B15 - Stadium;1:05.041;21/09/2017;Spreadsheet;Stadium;TM2;10;a
-CarlJr;B15 - Stadium;1:04.912;??/11/2017;Spreadsheet;Stadium;TM2;11;a
+CarlJr;B15 - Stadium;1:05.136;??/07/2017;.;Stadium;TM2;9;a
+RotakeR;B15 - Stadium;1:05.041;21/09/2017;.;Stadium;TM2;10;a
+CarlJr;B15 - Stadium;1:04.912;??/11/2017;.;Stadium;TM2;11;a
 Forsaken;B15 - Stadium;1:04.861;15/07/2018;.;Stadium;TM2;12;a
 CarlJr;B15 - Stadium;1:04.773;28/12/2018;.;Stadium;TM2;13;a
 riolu;B15 - Stadium;1:04.643;03/05/2019;.;Stadium;TM2;14;a
@@ -1301,7 +1308,7 @@ Ancaqar;C01 - Stadium;???;11/12/2014;.;Stadium;TM2;4;a
 RotakeR;C01 - Stadium;34.761;26/04/2015;.;Stadium;TM2;5;a
 Ancaqar;C01 - Stadium;34.738;01/05/2015;.;Stadium;TM2;6;a
 Ancaqar;C01 - Stadium;34.713;02/06/2017;.;Stadium;TM2;7;a
-__;C01 - Stadium;34.673;??/12/2017;Spreadsheet;Stadium;TM2;8;a
+__;C01 - Stadium;34.673;??/12/2017;.;Stadium;TM2;8;a
 Pinda;C01 - Stadium;34.641;17/03/2018;.;Stadium;TM2;9;a
 Kripke;C01 - Stadium;34.527;26/08/2018;.;Stadium;TM2;10;a
 Reyger;C01 - Stadium;34.501;22/01/2020;.;Stadium;TM2;11;a
@@ -1344,7 +1351,7 @@ Passi;C03 - Stadium;21.468;17/07/2013;.;Stadium;TM2;3;a
 Raceta;C03 - Stadium;21.378;11/09/2016;.;Stadium;TM2;4;a
 Raceta;C03 - Stadium;21.538;??/05/2017;vA;Stadium;TM2;5;a
 ringoa;C03 - Stadium;21.508;06/08/2017;.;Stadium;TM2;6;a
-Raceta;C03 - Stadium;21.492;??/11/2017;Spreadsheet;Stadium;TM2;7;a
+Raceta;C03 - Stadium;21.492;??/11/2017;.;Stadium;TM2;7;a
 Hefest;C03 - Stadium;21.302;??/04/2018;.;Stadium;TM2;8;a
 Raceta;C03 - Stadium;21.255;14/04/2018;.;Stadium;TM2;9;a
 Samuel;C03 - Stadium;21.235;16/06/2019;.;Stadium;TM2;10;a
@@ -1393,7 +1400,7 @@ JaV;C06 - Stadium;38.265;16/07/2013;.;Stadium;TM2;1;a
 Shock77;C06 - Stadium;38.258;18/07/2013;.;Stadium;TM2;2;a
 CarlJr;C06 - Stadium;37.960;25/07/2013;Sub 38;Stadium;TM2;3;a
 riolu;C06 - Stadium;37.846;26/09/2014;Cheated;Stadium;TM2;4;a
-__;C06 - Stadium;37.981;??/05/2017;Spreadsheet;Stadium;TM2;5;a
+__;C06 - Stadium;37.981;??/05/2017;.;Stadium;TM2;5;a
 racehans;C06 - Stadium;37.844;01/08/2018;DUCK;Stadium;TM2;6;a
 the.Park;C06 - Stadium;37.768;10/01/2018;.;Stadium;TM2;7;a
 CarlJr;C06 - Stadium;37.668;31/03/2018;.;Stadium;TM2;8;a
@@ -1410,10 +1417,10 @@ Savier;C07 - Stadium;35.685;04/07/2013;.;Stadium;TM2;2;a
 Demon;C07 - Stadium;35.596;19/07/2013;.;Stadium;TM2;3;a
 __;C07 - Stadium;35.507;??/??/????;>07/15;Stadium;TM2;4;a
 trabadia;C07 - Stadium;35.511;16/05/2017;.;Stadium;TM2;5;a
-Kripke;C07 - Stadium;35.458;??/05/2017;Spreadsheet;Stadium;TM2;6;a
+Kripke;C07 - Stadium;35.458;??/05/2017;.;Stadium;TM2;6;a
 racehans;C07 - Stadium;35.450;21/08/2017;.;Stadium;TM2;7;a
-__;C07 - Stadium;35.436;??/08/2017;Spreadsheet;Stadium;TM2;8;a
-Raceta;C07 - Stadium;35.412;??/09/2017;Spreadsheet;Stadium;TM2;9;a
+__;C07 - Stadium;35.436;??/08/2017;.;Stadium;TM2;8;a
+Raceta;C07 - Stadium;35.412;??/09/2017;.;Stadium;TM2;9;a
 Kripke;C07 - Stadium;35.297;04/04/2018;.;Stadium;TM2;10;a
 Pieton;C07 - Stadium;35.293;26/10/2019;.;Stadium;TM2;11;a
 Raceta;C07 - Stadium;35.261;30/11/2019;.;Stadium;TM2;12;a
@@ -1432,7 +1439,7 @@ Hanni0;C08 - Stadium;32.832;03/07/2013;.;Stadium;TM2;1;a
 mt17;C08 - Stadium;32.467;18/07/2013;.;Stadium;TM2;3;a
 JaV;C08 - Stadium;32.407;15/06/2014;.;Stadium;TM2;4;a
 mt17;C08 - Stadium;32.352;13/06/2017;.;Stadium;TM2;5;a
-__;C08 - Stadium;32.250;??/06/2017;Spreadsheet;Stadium;TM2;6;a
+__;C08 - Stadium;32.250;??/06/2017;.;Stadium;TM2;6;a
 Panda;C08 - Stadium;32.245;25/06/2017;.;Stadium;TM2;7;a
 Maciey;C08 - Stadium;32.127;28/06/2017;.;Stadium;TM2;8;a
 Loupphok;C08 - Stadium;32.122;21/07/2018;.;Stadium;TM2;9;a
@@ -1497,7 +1504,7 @@ Jaja;C12 - Stadium;37.354;01/07/2013;.;Stadium;TM2;1;a
 Katic;C12 - Stadium;37.292;11/07/2013;.;Stadium;TM2;2;a
 Demon;C12 - Stadium;37.281;26/10/2013;.;Stadium;TM2;3;a
 Demon;C12 - Stadium;37.253;29/04/2014;.;Stadium;TM2;4;a
-__;C12 - Stadium;37.214;??/05/2017;Spreadsheet;Stadium;TM2;5;a
+__;C12 - Stadium;37.214;??/05/2017;.;Stadium;TM2;5;a
 Maciey;C12 - Stadium;37.158;25/06/2017;.;Stadium;TM2;6;a
 riolu;C12 - Stadium;???;??/??/????;> 04/18;Stadium;TM2;7;a
 Hefest;C12 - Stadium;37.137;22/07/2018;.;Stadium;TM2;8;a
@@ -1563,7 +1570,7 @@ Blizz;C15 - Stadium;1:35.421;23/07/2013;.;Stadium;TM2;2;a
 Blizz;C15 - Stadium;1:35.263;26/07/2013;.;Stadium;TM2;3;a
 Tween;C15 - Stadium;1:34.985;26/07/2013;Sub 1:35;Stadium;TM2;4;a
 Serbi;C15 - Stadium;1:34.334;18/11/2015;.;Stadium;TM2;5;a
-CarlJr;C15 - Stadium;1:34.648;??/07/2017;Spreadsheet;Stadium;TM2;6;a
+CarlJr;C15 - Stadium;1:34.648;??/07/2017;.;Stadium;TM2;6;a
 CarlJr;C15 - Stadium;1:34.154;??/??/????;> 04/18;Stadium;TM2;7;a
 riolu;C15 - Stadium;1:34.075;15/05/2019;.;Stadium;TM2;8;a
 CarlJr;C15 - Stadium;1:34.032;17/11/2019;DUCK;Stadium;TM2;9;a
@@ -1582,7 +1589,7 @@ Pigge;D01 - Stadium;41.997;??/07/2017;DUCK;Stadium;TM2;11;a
 Pigge;D01 - Stadium;41.972;??/08/2017;.;Stadium;TM2;12;a
 riolu;D01 - Stadium;41.915;30/08/2017;.;Stadium;TM2;13;a
 riolu;D01 - Stadium;41.752;30/08/2017;.;Stadium;TM2;14;a
-Pigge;D01 - Stadium;41.328;??/09/2017;Spreadsheet;Stadium;TM2;15;a
+Pigge;D01 - Stadium;41.328;??/09/2017;.;Stadium;TM2;15;a
 Frev;D01 - Stadium;41.262;14/12/2017;.;Stadium;TM2;16;a
 Pigge;D01 - Stadium;41.201;18/12/2017;.;Stadium;TM2;17;a
 Vulnerra;D01 - Stadium;41.114;23/06/2018;.;Stadium;TM2;18;a
@@ -1711,7 +1718,7 @@ Shock77;D09 - Stadium;39.404;17/07/2013;.;Stadium;TM2;1;a
 CarlJr;D09 - Stadium;39.271;28/07/2013;.;Stadium;TM2;2;a
 JaV;D09 - Stadium;39.055;25/05/2014;.;Stadium;TM2;3;a
 riolu;D09 - Stadium;39.048;01/10/2015;.;Stadium;TM2;4;a
-hugo220;D09 - Stadium;38.954;??/05/2017;Spreadsheet;Stadium;TM2;5;a
+hugo220;D09 - Stadium;38.954;??/05/2017;.;Stadium;TM2;5;a
 Reyger;D09 - Stadium;38.872;??/??/2018;> 04/18;Stadium;TM2;6;a
 hugo220;D09 - Stadium;38.772;18/06/2018;.;Stadium;TM2;7;a
 Reyger;D09 - Stadium;38.692;??/??/????;.;Stadium;TM2;8;a
@@ -1743,8 +1750,8 @@ Flyer;D11 - Stadium;47.486;03/07/2013;.;Stadium;TM2;1;a
 Flyer;D11 - Stadium;47.038;27/07/2013;.;Stadium;TM2;2;a
 Beat;D11 - Stadium;46.931;27/01/2014;Sub 47;Stadium;TM2;3;a
 Flyer;D11 - Stadium;46.913;??/??/????;<05/17;Stadium;TM2;4;a
-CarlJr;D11 - Stadium;47.126;??/05/2017;Spreadsheet;Stadium;TM2;5;a
-Flyer;D11 - Stadium;47.021;??/07/2017;Spreadsheet;Stadium;TM2;6;a
+CarlJr;D11 - Stadium;47.126;??/05/2017;.;Stadium;TM2;5;a
+Flyer;D11 - Stadium;47.021;??/07/2017;.;Stadium;TM2;6;a
 CarlJr;D11 - Stadium;46.873;16/08/2017;.;Stadium;TM2;7;a
 Flyer;D11 - Stadium;46.813;03/05/2018;.;Stadium;TM2;8;a
 Demon;D11 - Stadium;46.793;23/11/2018;.;Stadium;TM2;9;a
@@ -1757,10 +1764,10 @@ Flyer;D12 - Stadium;54.461;27/06/2013;.;Stadium;TM2;2;a
 madzen;D12 - Stadium;54.229;01/08/2013;.;Stadium;TM2;3;a
 racehans;D12 - Stadium;53.918;02/08/2013;Sub 54;Stadium;TM2;4;a
 Demon;D12 - Stadium;54.786;01/06/2014;.;Stadium;TM2;5;a
-__;D12 - Stadium;54.807;??/05/2017;Spreadsheet;Stadium;TM2;6;a
+__;D12 - Stadium;54.807;??/05/2017;.;Stadium;TM2;6;a
 racehans;D12 - Stadium;54.708;25/07/2017;.;Stadium;TM2;7;a
-hugo220;D12 - Stadium;53.674;??/08/2017;Spreadsheet;Stadium;TM2;8;a
-hugo220;D12 - Stadium;53.647;??/08/2017;Spreadsheet;Stadium;TM2;9;a
+hugo220;D12 - Stadium;53.674;??/08/2017;.;Stadium;TM2;8;a
+hugo220;D12 - Stadium;53.647;??/08/2017;.;Stadium;TM2;9;a
 hugo220;D12 - Stadium;53.544;17/08/2017;.;Stadium;TM2;10;a
 CarlJr;D12 - Stadium;53.481;18/08/2017;.;Stadium;TM2;11;a
 riolu;D12 - Stadium;53.447;18/10/2018;.;Stadium;TM2;12;a
@@ -1784,7 +1791,7 @@ Loupphok;D12 - Stadium;53.077;15/06/2025;.;Stadium;TM2;27;a
 7Alvin;D13 - Stadium;28.360;01/07/2013;.;Stadium;TM2;3;a
 Arcanos;D13 - Stadium;27.908;12/07/2015;Sub 28;Stadium;TM2;4;a
 ringoa;D13 - Stadium;28.027;??/05/2017;.;Stadium;TM2;5;a
-ringoa;D13 - Stadium;27.440;??/06/2017;Spreadsheet;Stadium;TM2;6;a
+ringoa;D13 - Stadium;27.440;??/06/2017;.;Stadium;TM2;6;a
 ringoa;D13 - Stadium;26.887;17/07/2017;New cut;Stadium;TM2;7;a
 Samuel;D13 - Stadium;26.701;25/07/2018;.;Stadium;TM2;8;a
 Samuel;D13 - Stadium;26.665;03/03/2019;.;Stadium;TM2;9;a
@@ -1802,7 +1809,7 @@ Shock77;D14 - Stadium;1:02.229;17/08/2013;.;Stadium;TM2;2;a
 Tatu;D14 - Stadium;1:01.530;14/10/2013;Sub 1:02;Stadium;TM2;3;a
 Shock77;D14 - Stadium;1:01.421;21/09/2015;.;Stadium;TM2;4;a
 Byfjunarn;D14 - Stadium;1:01.598;24/05/2017;.;Stadium;TM2;5;a
-CarlJr;D14 - Stadium;1:01.575;??/07/2017;Spreadsheet;Stadium;TM2;6;a
+CarlJr;D14 - Stadium;1:01.575;??/07/2017;.;Stadium;TM2;6;a
 hugo220;D14 - Stadium;1:01.428;??/08/2017;.;Stadium;TM2;7;a
 hugo220;D14 - Stadium;1:01.223;17/08/2017;.;Stadium;TM2;8;a
 CarlJr;D14 - Stadium;1:01.144;24/11/2017;.;Stadium;TM2;9;a
@@ -1817,7 +1824,7 @@ neon;D14 - Stadium;1:00.593;16/03/2025;.;Stadium;TM2;17;a
 Vogter;D15 - Stadium;7:44.606;30/07/2013;.;Stadium;TM2;1;a
 Tween;D15 - Stadium;7:43.658;30/07/2013;Sub 7:44;Stadium;TM2;2;a
 Tween;D15 - Stadium;7:42.151;24/08/2013;.;Stadium;TM2;3;a
-CarlJr;D15 - Stadium;7:42.481;??/07/2017;Spreadsheet;Stadium;TM2;4;a
+CarlJr;D15 - Stadium;7:42.481;??/07/2017;.;Stadium;TM2;4;a
 CarlJr;D15 - Stadium;7:40.747;26/11/2017;7 years WR;Stadium;TM2;5;a
 Sapi;D15 - Stadium;7:40.088;06/02/2024;.;Stadium;TM2;6;a
 JaV;E01 - Stadium;1:01.310;18/07/2013;.;Stadium;TM2;1;a
@@ -1825,7 +1832,7 @@ Wally;E01 - Stadium;1:01.014;20/07/2013;.;Stadium;TM2;2;a
 Wally;E01 - Stadium;1:00.448;22/07/2013;Sub 1:01;Stadium;TM2;3;a
 Scrapie;E01 - Stadium;59.989;25/04/2014;Sub 1:00;Stadium;TM2;4;a
 Jadooky;E01 - Stadium;59.906;28/04/2014;.;Stadium;TM2;5;a
-DanikB;E01 - Stadium;1:00.108;??/05/2017;Spreadsheet;Stadium;TM2;6;a
+DanikB;E01 - Stadium;1:00.108;??/05/2017;.;Stadium;TM2;6;a
 Maciey;E01 - Stadium;59.989;30/07/2017;.;Stadium;TM2;7;a
 CarlJr;E01 - Stadium;59.963;30/07/2017;.;Stadium;TM2;8;a
 CarlJr;E01 - Stadium;59.514;14/01/2018;.;Stadium;TM2;9;a
