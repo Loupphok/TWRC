@@ -702,7 +702,7 @@ dreikovive;E01 - Canyon;46.230;03/07/2017;.;Canyon;TM2;8;a
 Mithzul;E01 - Canyon;46.167;??/07/2017;.;Canyon;TM2;9;a
 riolu;E01 - Canyon;46.161;??/11/2017;.;Canyon;TM2;10;a
 riolu;E01 - Canyon;46.035;14/08/2019;.;Canyon;TM2;11;a
-Mebe12;E01 - Canyon;45.983;21/05/2020;.;Canyon;TM2;12;a
+Mebe12;E01 - Canyon;45.983;21/05/2020;DUCK;Canyon;TM2;12;a
 Yogosun;E01 - Canyon;45.973;22/05/2020;.;Canyon;TM2;13;a
 Yogosun;E01 - Canyon;45.938;24/05/2020;.;Canyon;TM2;14;a
 Mebe12;E01 - Canyon;45.927;19/10/2020;.;Canyon;TM2;15;a
@@ -711,14 +711,32 @@ Mebe12;E01 - Canyon;45.903;19/10/2020;.;Canyon;TM2;17;a
 Mebe12;E01 - Canyon;45.815;19/10/2020;.;Canyon;TM2;18;a
 Mebe12;E01 - Canyon;45.810;19/10/2020;.;Canyon;TM2;19;a
 Mebe12;E01 - Canyon;45.717;19/10/2020;.;Canyon;TM2;20;a
-riolu;E02 - Canyon;1:09.290;13/08/2019;.;Canyon;TM2;1;a
-Mebe12;E02 - Canyon;1:09.221;31/08/2020;.;Canyon;TM2;2;a
-Cloud;E02 - Canyon;1:09.115;06/10/2020;.;Canyon;TM2;3;a
-Mebe12;E02 - Canyon;1:08.988;07/10/2020;.;Canyon;TM2;4;a
-riolu;E03 - Canyon;1:41.060;09/08/2019;.;Canyon;TM2;1;a
-Mebe12;E03 - Canyon;1:40.745;16/09/2020;.;Canyon;TM2;2;a
-Yogosun;E03 - Canyon;1:40.605;19/09/2020;TikTok;Canyon;TM2;3;a
-Mebe12;E03 - Canyon;1:39.988;30/08/2021;.;Canyon;TM2;4;a
+Red Shreder;E02 - Canyon;1:12.01x;24/10/2011;.;Canyon;TM2;1;a
+GamingWare;E02 - Canyon;1:11.50x;17/12/2011;.;Canyon;TM2;2;a
+Joltysonic;E02 - Canyon;1:10.527;09/06/2012;.;Canyon;TM2;3;a
+riolu;E02 - Canyon;1:10.448;21/08/2012;.;Canyon;TM2;4;a
+Joltysonic;E02 - Canyon;1:09.948;12/09/2012;.;Canyon;TM2;5;a
+riolu;E02 - Canyon;1:09.631;03/04/2013;.;Canyon;TM2;6;a
+__;E02 - Canyon;1:09.466;??/??/????;.;Canyon;TM2;7;a
+riolu;E02 - Canyon;1:09.290;13/08/2019;.;Canyon;TM2;8;a
+Mebe12;E02 - Canyon;1:09.221;31/08/2020;DUCK;Canyon;TM2;9;a
+Cloud;E02 - Canyon;1:09.115;06/10/2020;.;Canyon;TM2;10;a
+Mebe12;E02 - Canyon;1:08.988;07/10/2020;.;Canyon;TM2;11;a
+riolu;E03 - Canyon;1:51.066;04/02/2012;.;Canyon;TM2;1;a
+riolu;E03 - Canyon;1:49.368;02/04/2013;.;Canyon;TM2;2;a
+edk;E03 - Canyon;1:48.183;??/??/????;.;Canyon;TM2;3;a
+riolu;E03 - Canyon;1:45.560;13/02/2015;yes 2.6s;Canyon;TM2;4;a
+johalss;E03 - Canyon;1:45.124;17/09/2015;.;Canyon;TM2;5;a
+johalss;E03 - Canyon;1:44.555;18/09/2015;New cut;Canyon;TM2;6;a
+riolu;E03 - Canyon;1:41.947;19/09/2015;.;Canyon;TM2;7;a
+edk;E03 - Canyon;1:45.585;??/05/2017;.;Canyon;TM2;8;a
+Quentin43;E03 - Canyon;1:44.478;??/04/2018;.;Canyon;TM2;9;a
+__;E03 - Canyon;1:43.926;??/??/????;yes 2s;Canyon;TM2;10;a
+riolu;E03 - Canyon;1:41.923;08/08/2019;.;Canyon;TM2;11;a
+riolu;E03 - Canyon;1:41.060;09/08/2019;.;Canyon;TM2;12;a
+Mebe12;E03 - Canyon;1:40.745;16/09/2020;.;Canyon;TM2;13;a
+Yogosun;E03 - Canyon;1:40.605;19/09/2020;1B views on TikTok;Canyon;TM2;14;a
+Mebe12;E03 - Canyon;1:39.988;30/08/2021;.;Canyon;TM2;15;a
 riolu;E04 - Canyon;1:38.411;03/08/2019;.;Canyon;TM2;1;a
 Cloud;E04 - Canyon;1:38.385;05/09/2020;.;Canyon;TM2;2;a
 Mebe12;E04 - Canyon;1:37.603;04/11/2020;.;Canyon;TM2;3;a
