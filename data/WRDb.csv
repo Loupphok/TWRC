@@ -106,7 +106,7 @@ __;A07 - Canyon;24.99x;??/??/2012;<06/06/12;Canyon;TM2;4;a
 riolu;A07 - Canyon;24.943;??/??/2012;<07/07/12;Canyon;TM2;5;a
 Wouter;A07 - Canyon;24.87x;??/??/????;.;Canyon;TM2;6;a
 riolu;A07 - Canyon;24.845;25/04/2013;.;Canyon;TM2;7;a
-erikmania;A07 - Canyon;24.808;10/02/2016;.;Canyon;TM2;8;a
+edk;A07 - Canyon;24.808;10/02/2016;.;Canyon;TM2;8;a
 Warrenz79;A07 - Canyon;24.814;09/05/2017;.;Canyon;TM2;9;a
 riolu;A07 - Canyon;24.606;10/06/2017;Cheated;Canyon;TM2;10;a
 Mebe12;A07 - Canyon;24.567;11/09/2020;DUCK;Canyon;TM2;11;a
@@ -215,7 +215,7 @@ Cloud;A14 - Canyon;27.201;08/05/2022;.;Canyon;TM2;10;a
 Mebe12;A14 - Canyon;27.196;11/05/2022;.;Canyon;TM2;11;a
 riolu;A15 - Canyon;2:20.804;12/01/2012;.;Canyon;TM2;1;a
 riolu;A15 - Canyon;2:19.064;13/10/2012;yes 1.8s;Canyon;TM2;2;a
-erikmania;A15 - Canyon;2:19.041;20/11/2015;.;Canyon;TM2;3;a
+edk;A15 - Canyon;2:19.041;20/11/2015;.;Canyon;TM2;3;a
 riolu;A15 - Canyon;2:18.647;16/12/2015;.;Canyon;TM2;4;a
 Quentin43;A15 - Canyon;2:18.942;??/05/2017;.;Canyon;TM2;5;a
 Mebe12;A15 - Canyon;2:18.910;??/??/2017;.;Canyon;TM2;6;a
@@ -249,7 +249,7 @@ riolu;B02 - Canyon;32.403;03/01/2012;.;Canyon;TM2;2;a
 riolu;B02 - Canyon;32.304;06/09/2013;.;Canyon;TM2;4;a
 riolu;B02 - Canyon;32.223;15/09/2013;.;Canyon;TM2;5;a
 marios2000;B02 - Canyon;32.191;01/03/2016;.;Canyon;TM2;6;a
-erikmania;B02 - Canyon;32.190;06/06/2016;.;Canyon;TM2;7;a
+edk;B02 - Canyon;32.190;06/06/2016;.;Canyon;TM2;7;a
 riolu;B02 - Canyon;32.175;06/06/2016;.;Canyon;TM2;8;a
 __;B02 - Canyon;31.968;??/05/2017;.;Canyon;TM2;9;a
 Nath;B02 - Canyon;31.944;28/07/2017;.;Canyon;TM2;10;a
@@ -265,8 +265,8 @@ AuSSiePriDe;B03 - Canyon;20.20x;??/04/2012;.;Canyon;TM2;2;a
 KolodrubskyRoman;B03 - Canyon;20.12x;09/07/2012;.;Canyon;TM2;3;a
 Poutrel;B03 - Canyon;20.10x;17/11/2012;.;Canyon;TM2;4;a
 riolu;B03 - Canyon;20.077;09/02/2013;.;Canyon;TM2;5;a
-erikmania;B03 - Canyon;20.071;16/12/2015;DUCK;Canyon;TM2;6;a
-erikmania;B03 - Canyon;20.975;??/01/2016;.;Canyon;TM2;7;a
+edk;B03 - Canyon;20.071;16/12/2015;DUCK;Canyon;TM2;6;a
+edk;B03 - Canyon;20.975;??/01/2016;.;Canyon;TM2;7;a
 Jerome;B03 - Canyon;20.760;??/05/2017;.;Canyon;TM2;8;a
 7Alvin;B03 - Canyon;20.728;09/06/2017;.;Canyon;TM2;9;a
 Mebe12;B03 - Canyon;20.671;07/04/2018;.;Canyon;TM2;10;a
@@ -540,28 +540,53 @@ riolu;C05 - Canyon;1:33.018;28/11/2019;.;Canyon;TM2;12;a
 Mebe12;C05 - Canyon;1:32.975;28/11/2019;.;Canyon;TM2;13;a
 riolu;C05 - Canyon;1:32.971;01/12/2019;.;Canyon;TM2;14;a
 Mebe12;C05 - Canyon;1:32.948;24/06/2020;DUCK;Canyon;TM2;15;a
-riolu;C06 - Canyon;33.491;15/11/2019;.;Canyon;TM2;1;a
-Mebe12;C06 - Canyon;33.454;18/06/2020;.;Canyon;TM2;2;a
-Mebe12;C06 - Canyon;33.383;13/07/2020;.;Canyon;TM2;3;a
-Cloud;C06 - Canyon;33.382;20/04/2022;.;Canyon;TM2;4;a
-Cloud;C06 - Canyon;33.306;20/04/2022;.;Canyon;TM2;5;a
-Mebe12;C06 - Canyon;33.288;26/04/2022;.;Canyon;TM2;6;a
-riolu;C07 - Canyon;28.221;18/07/2019;.;Canyon;TM2;1;a
-Mebe12;C07 - Canyon;28.171;02/07/2020;.;Canyon;TM2;2;a
-Mebe12;C07 - Canyon;28.166;12/01/2021;.;Canyon;TM2;3;a
-Mebe12;C07 - Canyon;28.160;12/01/2021;.;Canyon;TM2;4;a
-Mebe12;C07 - Canyon;28.156;12/01/2021;.;Canyon;TM2;5;a
-Mebe12;C07 - Canyon;28.138;12/05/2021;.;Canyon;TM2;6;a
-Mebe12;C07 - Canyon;28.136;06/04/2024;.;Canyon;TM2;7;a
-Mebe12;C07 - Canyon;28.123;08/04/2024;.;Canyon;TM2;8;a
-riolu;C08 - Canyon;29.177;28/03/2019;.;Canyon;TM2;1;a
-Night;C08 - Canyon;29.162;19/08/2020;.;Canyon;TM2;2;a
-Night;C08 - Canyon;29.158;21/08/2020;.;Canyon;TM2;3;a
-Mebe12;C08 - Canyon;29.154;22/09/2020;.;Canyon;TM2;4;a
-Night;C08 - Canyon;29.153;03/10/2020;.;Canyon;TM2;5;a
-Mebe12;C08 - Canyon;29.141;04/10/2020;.;Canyon;TM2;6;a
-Night;C08 - Canyon;29.132;18/10/2020;.;Canyon;TM2;7;a
-Mebe12;C08 - Canyon;29.128;26/10/2020;.;Canyon;TM2;8;a
+riolu;C06 - Canyon;34.57x;??/??/????;.;Canyon;TM2;1;a
+7Alvin;C06 - Canyon;34.438;05/09/2012;.;Canyon;TM2;2;a
+riolu;C06 - Canyon;34.256;17/09/2012;.;Canyon;TM2;3;a
+edk;C06 - Canyon;34.173;??/??/????;.;Canyon;TM2;4;a
+riolu;C06 - Canyon;34.041;13/05/2014;.;Canyon;TM2;5;a
+riolu;C06 - Canyon;33.681;??/05/2017;.;Canyon;TM2;6;a
+Mebe12;C06 - Canyon;33.621;??/??/????;.;Canyon;TM2;7;a
+__;C06 - Canyon;33.526;??/??/????;.;Canyon;TM2;8;a
+Mebe12;C06 - Canyon;33.523;08/11/2019;.;Canyon;TM2;9;a
+riolu;C06 - Canyon;33.491;15/11/2019;.;Canyon;TM2;10;a
+Mebe12;C06 - Canyon;33.454;18/06/2020;DUCK;Canyon;TM2;12;a
+Mebe12;C06 - Canyon;33.383;13/07/2020;.;Canyon;TM2;13;a
+Cloud;C06 - Canyon;33.382;20/04/2022;.;Canyon;TM2;14;a
+Cloud;C06 - Canyon;33.306;20/04/2022;.;Canyon;TM2;15;a
+Mebe12;C06 - Canyon;33.288;26/04/2022;.;Canyon;TM2;16;a
+Marco;C07 - Canyon;29.25x;12/01/2011;.;Canyon;TM2;1;a
+riolu;C07 - Canyon;28.821;08/04/2013;.;Canyon;TM2;2;a
+Marco;C07 - Canyon;28.793;??/05/2013;.;Canyon;TM2;3;a
+riolu;C07 - Canyon;28.728;27/02/2014;.;Canyon;TM2;4;a
+riolu;C07 - Canyon;28.310;??/05/2017;.;Canyon;TM2;5;a
+Mebe12;C07 - Canyon;28.301;??/??/????;.;Canyon;TM2;6;a
+riolu;C07 - Canyon;28.221;18/07/2019;.;Canyon;TM2;7;a
+Mebe12;C07 - Canyon;28.171;02/07/2020;DUCK;Canyon;TM2;8;a
+Mebe12;C07 - Canyon;28.166;12/01/2021;.;Canyon;TM2;9;a
+Mebe12;C07 - Canyon;28.160;12/01/2021;.;Canyon;TM2;10;a
+Mebe12;C07 - Canyon;28.156;12/01/2021;.;Canyon;TM2;11;a
+Mebe12;C07 - Canyon;28.138;12/05/2021;.;Canyon;TM2;12;a
+Mebe12;C07 - Canyon;28.136;06/04/2024;.;Canyon;TM2;13;a
+Mebe12;C07 - Canyon;28.123;08/04/2024;.;Canyon;TM2;14;a
+Alexony;C08 - Canyon;29.65x;21/10/2011;.;Canyon;TM2;1;a
+Marco;C08 - Canyon;29.53x;??/??/2012;.;Canyon;TM2;2;a
+riolu;C08 - Canyon;29.518;08/01/2013;.;Canyon;TM2;3;a
+marios2000;C08 - Canyon;29.512;01/03/2013;.;Canyon;TM2;4;a
+riolu;C08 - Canyon;29.498;05/11/2014;.;Canyon;TM2;5;a
+edk;C08 - Canyon;29.488;??/??/????;.;Canyon;TM2;6;a
+riolu;C08 - Canyon;29.448;27/04/2015;.;Canyon;TM2;7;a
+riolu;C08 - Canyon;29.238;??/05/2017;.;Canyon;TM2;8;a
+Luxxer;C08 - Canyon;29.234;28/12/2017;.;Canyon;TM2;9;a
+Mebe12;C08 - Canyon;29.215;??/??/????;.;Canyon;TM2;10;a
+riolu;C08 - Canyon;29.177;28/03/2019;.;Canyon;TM2;11;a
+Night;C08 - Canyon;29.162;19/08/2020;DUCK;Canyon;TM2;12;a
+Night;C08 - Canyon;29.158;21/08/2020;.;Canyon;TM2;13;a
+Mebe12;C08 - Canyon;29.154;22/09/2020;.;Canyon;TM2;14;a
+Night;C08 - Canyon;29.153;03/10/2020;.;Canyon;TM2;15;a
+Mebe12;C08 - Canyon;29.141;04/10/2020;.;Canyon;TM2;16;a
+Night;C08 - Canyon;29.132;18/10/2020;.;Canyon;TM2;17;a
+Mebe12;C08 - Canyon;29.128;26/10/2020;.;Canyon;TM2;18;a
 Cloud;C09 - Canyon;35.777;10/02/2020;.;Canyon;TM2;1;a
 Mebe12;C09 - Canyon;35.774;19/09/2020;.;Canyon;TM2;2;a
 Artemis;C09 - Canyon;35.767;21/09/2020;.;Canyon;TM2;3;a
@@ -579,7 +604,7 @@ Mebe12;C11 - Canyon;40.085;13/08/2020;.;Canyon;TM2;2;a
 Cloud;C11 - Canyon;40.078;17/11/2022;.;Canyon;TM2;3;a
 Mebe12;C11 - Canyon;40.031;17/11/2022;.;Canyon;TM2;4;a
 riolu;C12 - Canyon;38.818;29/12/2012;.;Canyon;TM2;1;a
-erikmania;C12 - Canyon;38.765;01/11/2015;.;Canyon;TM2;2;a
+edk;C12 - Canyon;38.765;01/11/2015;.;Canyon;TM2;2;a
 riolu;C12 - Canyon;38.705;11/11/2015;.;Canyon;TM2;3;a
 hyp;C12 - Canyon;38.555;17/07/2017;.;Canyon;TM2;4;a
 riolu;C12 - Canyon;38.538;07/08/2017;bbonbbon acc;Canyon;TM2;5;a
@@ -689,7 +714,7 @@ Mebe12;D11 - Canyon;47.047;27/07/2020;.;Canyon;TM2;9;a
 Cloud;D11 - Canyon;47.034;17/08/2020;.;Canyon;TM2;10;a
 Mebe12;D11 - Canyon;46.968;18/08/2020;Sub 47;Canyon;TM2;11;a
 riolu;D12 - Canyon;1:00.886;??/??/????;< 13/01/2013;Canyon;TM2;1;a
-erikmania;D12 - Canyon;1:00.885;22/09/2015;.;Canyon;TM2;2;a
+edk;D12 - Canyon;1:00.885;22/09/2015;.;Canyon;TM2;2;a
 riolu;D12 - Canyon;1:00.745;23/09/2015;.;Canyon;TM2;3;a
 riolu;D12 - Canyon;1:00.715;09/10/2015;.;Canyon;TM2;4;a
 Nath;D12 - Canyon;1:00.615;16/04/2018;No Holes;Canyon;TM2;5;a
@@ -2912,27 +2937,27 @@ Flechetas;A01 - Lagoon;23.456;15/11/2021;.;Lagoon;TM2;19;a
 riolu;A01 - Lagoon;23.452;02/06/2024;eddyey;Lagoon;TM2;20;a
 Doc_Me4ik;A02 - Lagoon;27.602;18/05/2017;.;Lagoon;TM2;1;a
 asier;A02 - Lagoon;27.547;20/05/2017;.;Lagoon;TM2;2;a
-riolu;A02 - Lagoon;27.515;??/05/2017;.;Lagoon;TM2;2;a
-styx;A02 - Lagoon;27.501;??/05/2017;Cheated;Lagoon;TM2;3;a
-riolu;A02 - Lagoon;27.491;30/09/2017;.;Lagoon;TM2;4;a
-7777Alex7777;A02 - Lagoon;27.490;24/03/2020;.;Lagoon;TM2;5;a
-7777Alex7777;A02 - Lagoon;27.462;27/03/2020;.;Lagoon;TM2;6;a
-riolu;A02 - Lagoon;27.457;26/04/2020;Cheated;Lagoon;TM2;7;a
-Thoringer;A02 - Lagoon;27.451;12/12/2020;Cheated;Lagoon;TM2;8;a
-Nemesis;A02 - Lagoon;27.461;20/05/2022;.;Lagoon;TM2;9;a
-Nemesis;A02 - Lagoon;27.451;22/04/2023;DUCK;Lagoon;TM2;10;a
-Fanakuri;A02 - Lagoon;27.413;06/03/2025;.;Lagoon;TM2;11;a
+riolu;A02 - Lagoon;27.515;??/05/2017;.;Lagoon;TM2;3;a
+styx;A02 - Lagoon;27.501;??/05/2017;Cheated;Lagoon;TM2;4;a
+riolu;A02 - Lagoon;27.491;30/09/2017;.;Lagoon;TM2;5;a
+7777Alex7777;A02 - Lagoon;27.490;24/03/2020;.;Lagoon;TM2;6;a
+7777Alex7777;A02 - Lagoon;27.462;27/03/2020;.;Lagoon;TM2;7;a
+riolu;A02 - Lagoon;27.457;26/04/2020;Cheated;Lagoon;TM2;8;a
+Thoringer;A02 - Lagoon;27.451;12/12/2020;Cheated;Lagoon;TM2;9;a
+Nemesis;A02 - Lagoon;27.461;20/05/2022;.;Lagoon;TM2;10;a
+Nemesis;A02 - Lagoon;27.451;22/04/2023;DUCK;Lagoon;TM2;11;a
+Fanakuri;A02 - Lagoon;27.413;06/03/2025;.;Lagoon;TM2;12;a
 Alpogae;A03 - Lagoon;23.372;24/05/2017;.;Lagoon;TM2;1;a
-Doc_Me4ik;A03 - Lagoon;23.368;25/05/2017;.;Lagoon;TM2;1;a
-riolu;A03 - Lagoon;23.366;??/05/2017;.;Lagoon;TM2;1;a
-riolu;A03 - Lagoon;23.352;26/05/2017;.;Lagoon;TM2;2;a
-riolu;A03 - Lagoon;23.330;??/05/2017;.;Lagoon;TM2;3;a
-styx;A03 - Lagoon;23.327;??/05/2017;Cheated;Lagoon;TM2;4;a
-riolu;A03 - Lagoon;23.323;19/03/2019;Cheated;Lagoon;TM2;5;a
-Flechetas;A03 - Lagoon;23.331;04/10/2021;.;Lagoon;TM2;6;a
-Flechetas;A03 - Lagoon;23.324;12/10/2021;.;Lagoon;TM2;7;a
-Flechetas;A03 - Lagoon;23.315;21/10/2021;DUCK;Lagoon;TM2;8;a
-riolu;A03 - Lagoon;23.311;23/05/2023;eddyey;Lagoon;TM2;9;a
+Doc_Me4ik;A03 - Lagoon;23.368;25/05/2017;.;Lagoon;TM2;2;a
+riolu;A03 - Lagoon;23.366;??/05/2017;.;Lagoon;TM2;3;a
+riolu;A03 - Lagoon;23.352;26/05/2017;.;Lagoon;TM2;4;a
+riolu;A03 - Lagoon;23.330;??/05/2017;.;Lagoon;TM2;5;a
+styx;A03 - Lagoon;23.327;??/05/2017;Cheated;Lagoon;TM2;6;a
+riolu;A03 - Lagoon;23.323;19/03/2019;Cheated;Lagoon;TM2;7;a
+Flechetas;A03 - Lagoon;23.331;04/10/2021;.;Lagoon;TM2;8;a
+Flechetas;A03 - Lagoon;23.324;12/10/2021;.;Lagoon;TM2;9;a
+Flechetas;A03 - Lagoon;23.315;21/10/2021;DUCK;Lagoon;TM2;10;a
+riolu;A03 - Lagoon;23.311;23/05/2023;eddyey;Lagoon;TM2;11;a
 DarkLink94;A04 - Lagoon;18.954;??/05/2017;.;Lagoon;TM2;1;a
 DarkLink94;A04 - Lagoon;18.607;??/06/2017;.;Lagoon;TM2;2;a
 riolu;A04 - Lagoon;18.602;10/06/2017;.;Lagoon;TM2;3;a
@@ -3422,7 +3447,7 @@ Mebe12;C09 - Lagoon;39.208;01/05/2024;DUCK;Lagoon;TM2;15;a
 Mebe12;C09 - Lagoon;39.128;01/05/2024;.;Lagoon;TM2;16;a
 DarkLink94;C10 - Lagoon;2:01.310;??/05/2017;.;Lagoon;TM2;1;a
 __;C10 - Lagoon;2:01.265;??/03/2018;.;Lagoon;TM2;2;a
-Kulisa;C10 - Lagoon;2:00.723;??/??/????;<09/2019;Lagoon;TM2;4;a
+Kulisa;C10 - Lagoon;2:00.723;??/??/????;<09/2019;Lagoon;TM2;3;a
 DarkLink94;C10 - Lagoon;2:00.462;05/12/2019;.;Lagoon;TM2;4;a
 Speed;C10 - Lagoon;2:00.444;06/11/2021;.;Lagoon;TM2;5;a
 Nemesis;C10 - Lagoon;2:00.408;22/10/2022;.;Lagoon;TM2;6;a
@@ -5815,7 +5840,7 @@ Fanakuri;121;46.358;30/07/2021;DUCK;Canyon;TMT;11;a
 riolu;122;41.344;11/04/2016;.;Canyon;TMT;1;a
 Jerome;122;41.262;03/09/2016;.;Canyon;TMT;2;a
 riolu;122;41.198;13/09/2016;.;Canyon;TMT;3;a
-erikmania;122;41.170;27/06/2019;.;Canyon;TMT;4;a
+edk;122;41.170;27/06/2019;.;Canyon;TMT;4;a
 riolu;122;41.164;??/??/????;.;Canyon;TMT;5;a
 Fanakuri;122;41.122;03/06/2020;DUCK;Canyon;TMT;6;a
 Cloud;122;41.092;14/01/2021;.;Canyon;TMT;7;a
