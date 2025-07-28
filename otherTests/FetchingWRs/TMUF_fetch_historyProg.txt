@@ -124,16 +124,16 @@ StarBayC2;29/03/2009;0:34.36;X-ray;0
 StarBayC2;08/07/2009;0:34.21;1Zaitsev1;0
 StarBayC2;05/02/2010;0:34.08;1Zaitsev1;0
 StarBayC2;03/04/2016;0:33.72;Toyeca;0
-StarBayC2;26/05/2021;0:33.68;Insan!ty.k;0
-StarBayC2;28/05/2021;0:33.65;Insan!ty.k;0
-StarBayC2;28/05/2021;0:33.46;Insan!ty.k;0
+StarBayC2;26/05/2021;0:33.68;Insan!ty.k';0
+StarBayC2;28/05/2021;0:33.65;Insan!ty.k';0
+StarBayC2;28/05/2021;0:33.46;Insan!ty.k';0
 StarBayC2;30/05/2021;0:33.42;Mizu.Fwo;0
-StarBayC2;30/05/2021;0:33.34;Insan!ty.k;0
+StarBayC2;30/05/2021;0:33.34;Insan!ty.k';0
 StarBayC2;31/05/2021;0:33.31;Mizu.Fwo;0
-StarBayC2;02/06/2021;0:33.08;Insan!ty.k;0
-StarBayC2;03/06/2021;0:33.02;Insan!ty.k;0
+StarBayC2;02/06/2021;0:33.08;Insan!ty.k';0
+StarBayC2;03/06/2021;0:33.02;Insan!ty.k';0
 StarBayC2;04/06/2021;0:33.01;Mizu.Fwo;0
-StarBayC2;28/11/2022;0:32.90;Insan!ty.k;0
+StarBayC2;28/11/2022;0:32.90;Insan!ty.k';0
 StarBayC3;27/03/2009;0:34.17;LIZT@Z;0
 StarBayC3;28/03/2009;0:33.11;rad;0
 StarBayC3;29/03/2009;0:33.09;LIZT@Z;0
@@ -203,7 +203,7 @@ StarBayD2;27/05/2021;0:42.78;Mizu.Fwo;0
 StarBayD2;29/05/2021;0:42.73;Alain;0
 StarBayD2;30/05/2021;0:42.71;rellhoq!;0
 StarBayD2;31/05/2021;0:42.58;Alain;0
-StarBayD2;04/06/2021;0:42.53;Insan!ty.k;0
+StarBayD2;04/06/2021;0:42.53;Insan!ty.k';0
 StarBayD2;05/06/2021;0:42.50;Alain;0
 StarBayD2;12/09/2022;0:42.49;Neko98;0
 StarBayD2;12/11/2024;0:42.48;Schmaniol;0
@@ -356,7 +356,7 @@ StarCoastB1;05/05/2009;0:22.72;Scorpion;0
 StarCoastB1;19/05/2009;0:22.48;Marius 89;0
 StarCoastB1;25/10/2010;0:22.46;Scorpion;0
 StarCoastB1;28/05/2015;0:22.43;AiR. La Poule;0
-StarCoastB1;31/03/2021;0:22.26;Insan!ty.k;0
+StarCoastB1;31/03/2021;0:22.26;Insan!ty.k';0
 StarCoastB1;06/06/2022;0:22.21;TmLuffy;0
 StarCoastB1;15/06/2022;0:22.14;TmLuffy;0
 StarCoastB1;01/12/2022;0:22.13;Roa;0
@@ -375,7 +375,7 @@ StarCoastB2;05/02/2010;0:22.52;Skyline;0
 StarCoastB2;25/10/2010;0:22.45;Scorpion;0
 StarCoastB2;30/03/2017;0:22.30;Toyeca;0
 StarCoastB2;03/08/2017;0:22.25;Red Shreder;0
-StarCoastB2;31/03/2021;0:22.07;Insan!ty.k;0
+StarCoastB2;31/03/2021;0:22.07;Insan!ty.k';0
 StarCoastB2;21/08/2022;0:22.03;mec�shock;0
 StarCoastB2;01/12/2022;0:21.96;Roa;0
 StarCoastB2;28/10/2024;0:21.92;Neko98;0
@@ -1899,7 +1899,7 @@ StarStadiumA5;20/10/2011;0:18.54;Maccron;0
 StarStadiumA5;20/10/2011;0:18.47;Shock/CZE;0
 StarStadiumA5;22/10/2011;0:18.46;Maccron;0
 StarStadiumA5;23/10/2011;0:18.37;Wave.�emon;0
-StarStadiumA5;26/02/2012;0:18.33;Jason;0
+StarStadiumA5;26/02/2012;0:18.33;Jason';0
 StarStadiumA5;07/04/2013;0:18.31;Uniwersal;0
 StarStadiumA5;07/04/2013;0:18.30;Uniwersal;0
 StarStadiumA5;07/05/2013;0:18.26;Uniwersal;0
@@ -2085,7 +2085,7 @@ StarStadiumC4;27/12/2010;0:34.51;cart;0
 StarStadiumC4;27/12/2010;0:34.48;cart;0
 StarStadiumC4;15/04/2011;0:34.45;Wave.�emon;0
 StarStadiumC4;10/10/2011;0:34.27;Wave.�emon;0
-StarStadiumC4;20/05/2012;0:34.26;Jason;0
+StarStadiumC4;20/05/2012;0:34.26;Jason';0
 StarStadiumC4;25/05/2012;0:34.25;Wave.�emon;0
 StarStadiumC4;21/03/2013;0:34.23;prospero;0
 StarStadiumC4;30/04/2013;0:34.18;Wave.�emon;0
@@ -2199,7 +2199,7 @@ StarStadiumD5;11/05/2011;0:53.85;Anarki...;0
 StarStadiumD5;12/05/2011;0:53.73;Sabre;0
 StarStadiumD5;12/05/2011;0:53.62;Sabre;0
 StarStadiumD5;05/06/2013;0:53.31;Serbi;0
-StarStadiumD5;04/05/2015;0:53.16;hades;0
+StarStadiumD5;04/05/2015;0:53.16;hades';0
 StarStadiumD5;06/05/2015;0:53.15;racehans;0
 StarStadiumD5;06/05/2015;0:52.97;racehans;0
 StarStadiumD5;01/07/2016;0:52.93;PT Raceta!;0
@@ -2811,7 +2811,7 @@ CoastC1;05/03/2022;0:37.65;rellhoq!;0
 CoastC1;01/11/2022;0:37.56;Insan!ty.Jonas;0
 CoastC1;04/11/2022;0:37.53;rellhoq!;0
 CoastC1;23/01/2023;0:37.40;rellhoq!;0
-CoastC1;31/10/2023;0:37.24;Insan!ty.k;0
+CoastC1;31/10/2023;0:37.24;Insan!ty.k';0
 CoastC2;20/11/2006;0:42.14;loozerr;0
 CoastC2;20/11/2006;0:40.09;Jake;0
 CoastC2;10/12/2006;0:40.04;Kellerkind;0
@@ -3932,7 +3932,7 @@ PlatformA4;23/01/2007;1:05.00;Marius 89;0
 PlatformA4;24/02/2008;1:04.50;X-ray;0
 PlatformA4;29/09/2008;1:04.18;Pray.sKillz;0
 PlatformA4;22/03/2009;1:01.87;plastorex;0
-PlatformA4;18/10/2011;1:01.48;Jason;0
+PlatformA4;18/10/2011;1:01.48;Jason';0
 PlatformA4;22/10/2011;1:01.17;Reg;0
 PlatformA4;22/10/2011;1:00.83;Maccron;0
 PlatformA4;27/08/2015;1:00.77;ikdennisik;0
@@ -4301,9 +4301,9 @@ PuzzleA3;31/12/2006;0:16.73;extion;0
 PuzzleA3;05/01/2007;0:16.56;[CMC] Patoum;0
 PuzzleA3;20/01/2007;0:16.54;_insomniac_;0
 PuzzleA3;20/01/2007;0:16.52;_insomniac_;0
-PuzzleA3;16/02/2007;0:16.49;S&CEld;0
+PuzzleA3;16/02/2007;0:16.49;S&C'Eld;0
 PuzzleA3;17/02/2007;0:16.45;_insomniac_;0
-PuzzleA3;17/02/2007;0:16.43;S&CEld;0
+PuzzleA3;17/02/2007;0:16.43;S&C'Eld;0
 PuzzleA3;22/03/2007;0:16.39;_insomniac_;0
 PuzzleA3;13/07/2007;0:16.38;Yam;0
 PuzzleA3;05/04/2008;0:16.35;Sharky^;0
@@ -4336,7 +4336,7 @@ PuzzleA5;11/12/2006;0:12.90;Kellerkind;0
 PuzzleA5;11/12/2006;0:12.65;Kellerkind;0
 PuzzleA5;05/01/2007;0:12.49;[CMC] Patoum;0
 PuzzleA5;23/01/2007;0:12.43;Decept;0
-PuzzleA5;19/02/2007;0:12.33;S&CEld;0
+PuzzleA5;19/02/2007;0:12.33;S&C'Eld;0
 PuzzleA5;20/02/2007;0:12.26;Marius 89;0
 PuzzleA5;20/03/2007;0:12.19;Rapidity;0
 PuzzleA5;11/07/2009;0:12.10;pio;0
@@ -4395,7 +4395,7 @@ PuzzleB3;10/12/2006;0:14.74;Kendar;0
 PuzzleB3;15/01/2007;0:14.71;Fargix~RDF;0
 PuzzleB3;13/02/2007;0:14.70;mo3p;0
 PuzzleB3;17/02/2007;0:14.66;_insomniac_;0
-PuzzleB3;17/02/2007;0:14.64;S&CEld;0
+PuzzleB3;17/02/2007;0:14.64;S&C'Eld;0
 PuzzleB3;17/02/2007;0:14.61;_insomniac_;0
 PuzzleB3;18/07/2007;0:14.59;-Pluto-;0
 PuzzleB3;19/07/2007;0:14.56;falubaz;0
@@ -4473,7 +4473,7 @@ PuzzleC1;20/12/2006;0:28.35;Jarvis;0
 PuzzleC1;20/01/2007;0:27.88;Deng;0
 PuzzleC1;24/01/2007;0:27.51;Decept;0
 PuzzleC1;25/01/2007;0:26.82;looo;0
-PuzzleC1;16/02/2007;0:26.80;S&CEld;0
+PuzzleC1;16/02/2007;0:26.80;S&C'Eld;0
 PuzzleC1;02/03/2007;0:26.66;_insomniac_;0
 PuzzleC1;11/03/2007;0:26.56;[CMC] Patoum;0
 PuzzleC1;27/04/2007;0:26.17;Marius 89;0
@@ -4518,7 +4518,7 @@ PuzzleC3;23/12/2006;0:26.70;iRoC;0
 PuzzleC3;12/01/2007;0:25.86;thecreator;0
 PuzzleC3;13/01/2007;0:25.62;Murdock;0
 PuzzleC3;16/02/2007;0:25.43;ludix;0
-PuzzleC3;16/02/2007;0:23.80;S&CEld;0
+PuzzleC3;16/02/2007;0:23.80;S&C'Eld;0
 PuzzleC3;22/03/2007;0:23.42;_insomniac_;0
 PuzzleC3;02/05/2007;0:23.36;Marius 89;0
 PuzzleC3;01/06/2007;0:22.41;ToyoT;0
@@ -4618,7 +4618,7 @@ PuzzleD2;10/12/2006;0:46.18;Kellerkind;0
 PuzzleD2;01/01/2007;0:43.62;extion;0
 PuzzleD2;09/01/2007;0:42.67;Jake;0
 PuzzleD2;08/02/2007;0:42.54;[CMC] Patoum;0
-PuzzleD2;16/02/2007;0:41.66;S&CEld;0
+PuzzleD2;16/02/2007;0:41.66;S&C'Eld;0
 PuzzleD2;22/02/2007;0:41.43;_insomniac_;0
 PuzzleD2;08/04/2007;0:41.33;MK;0
 PuzzleD2;08/04/2007;0:40.61;MK;0
@@ -4671,7 +4671,7 @@ PuzzleD5;26/01/2007;0:45.66;T46ViruS_T;0
 PuzzleD5;26/01/2007;0:45.42;T46ViruS_T;0
 PuzzleD5;26/01/2007;0:45.21;T46ViruS_T;0
 PuzzleD5;27/01/2007;0:45.19;_fuumaster;0
-PuzzleD5;16/02/2007;0:44.92;S&CEld;0
+PuzzleD5;16/02/2007;0:44.92;S&C'Eld;0
 PuzzleD5;22/03/2007;0:42.35;_insomniac_;0
 PuzzleD5;04/05/2007;0:41.85;Marius 89;0
 PuzzleD5;22/05/2007;0:41.80;EasyX;0
@@ -4693,7 +4693,7 @@ PuzzleE;12/12/2006;2:14.76;[ATP]scottmc;0
 PuzzleE;30/12/2006;2:01.79;Conroe;0
 PuzzleE;09/01/2007;2:00.22;Jake;0
 PuzzleE;26/01/2007;1:54.83;lmx;0
-PuzzleE;16/02/2007;1:50.61;S&CEld;0
+PuzzleE;16/02/2007;1:50.61;S&C'Eld;0
 PuzzleE;22/02/2007;1:49.93;Scornabek;0
 PuzzleE;22/02/2007;1:49.76;Scornabek;0
 PuzzleE;21/03/2007;1:37.28;Scornabek;0
@@ -5251,9 +5251,9 @@ SnowC3;11/12/2020;0:29.84;Insan!ty.Jonas;0
 SnowC3;25/12/2020;0:29.75;Mizu.Fwo;0
 SnowC3;29/12/2020;0:29.44;Insan!ty.Jonas;0
 SnowC3;29/04/2021;0:29.40;Schmaniol;0
-SnowC3;20/04/2022;0:29.38;Insan!ty.k;0
-SnowC3;20/04/2022;0:29.11;Insan!ty.k;0
-SnowC3;24/05/2022;0:29.09;Insan!ty.k;0
+SnowC3;20/04/2022;0:29.38;Insan!ty.k';0
+SnowC3;20/04/2022;0:29.11;Insan!ty.k';0
+SnowC3;24/05/2022;0:29.09;Insan!ty.k';0
 SnowC3;05/12/2022;0:29.02;nellike;0
 SnowC3;13/04/2023;0:28.98;�Mec�Phil.Fwo;0
 SnowC3;15/08/2024;0:28.97;RedShadow�UD;0
@@ -5754,7 +5754,7 @@ StadiumD1;21/11/2006;0:40.22;PafMax;0
 StadiumD1;21/11/2006;0:40.19;Jer27;0
 StadiumD1;27/11/2006;0:40.07;�gOd�spy;0
 StadiumD1;27/11/2006;0:39.21;Jer27;0
-StadiumD1;08/01/2007;0:39.01;TOXPsyC�;0
+StadiumD1;08/01/2007;0:39.01;TOX'PsyC�;0
 StadiumD1;21/01/2007;0:38.99;[CMC] Patoum;0
 StadiumD1;14/02/2007;0:38.59;�SFO�Lookid;0
 StadiumD1;26/05/2007;0:38.57;XpR;0
@@ -5937,7 +5937,7 @@ StuntB2;03/07/2021;0:13.87;rad;0
 StuntB2;24/07/2023;0:13.67;NerfPlayeR135;0
 StuntB3;22/03/2010;0:38.61;The Black Lion;0
 StuntB3;08/07/2010;0:21.58;auaandre;0
-StuntB3;07/11/2024;0:08.89;OZY!;0
+StuntB3;07/11/2024;0:08.89;Mec�OZY!;0
 StuntB3;27/07/2025;0:08.77;FeetTickler3000;0
 StuntB4;22/03/2010;0:43.31;Flo-Rida;0
 StuntB4;16/04/2010;0:35.72;Keirabxtch.;0
@@ -5948,24 +5948,24 @@ StuntB5;22/03/2010;0:48.04;The Black Lion;0
 StuntB5;06/07/2010;0:47.91;>Dawe;0
 StuntB5;02/12/2010;0:44.03;narutowser;0
 StuntB5;20/03/2022;0:26.94;iamvickyy;0
-StuntB5;07/11/2024;0:08.67;OZY!;0
+StuntB5;07/11/2024;0:08.67;Mec�OZY!;0
 StuntC1;03/01/2015;1:11.20;ichq;0
 StuntC1;03/01/2015;0:39.04;PT CakeyFA;0
 StuntC1;20/03/2022;0:34.87;iamvickyy;0
 StuntC1;30/12/2023;0:28.03;therareocelot;0
-StuntC1;07/11/2024;0:10.51;OZY!;0
+StuntC1;07/11/2024;0:10.51;Mec�OZY!;0
 StuntC2;03/01/2015;1:02.65;Edge.Fwo;0
 StuntC2;25/01/2015;1:01.41;Beridok;0
 StuntC2;17/07/2015;0:50.04;Mr8u1137;0
 StuntC2;18/10/2017;0:09.75;PT CakeyFA;0
 StuntC2;08/03/2024;0:07.86;LazerMan;0
-StuntC2;07/11/2024;0:06.83;OZY!;0
+StuntC2;07/11/2024;0:06.83;Mec�OZY!;0
 StuntC3;03/01/2015;1:21.20;kaugummi59;0
 StuntC3;03/01/2015;1:20.12;Edge.Fwo;0
 StuntC3;27/09/2015;1:15.55;RotakeR;0
 StuntC3;18/10/2017;0:40.57;PT CakeyFA;0
 StuntC3;20/03/2022;0:26.48;iamvickyy;0
-StuntC3;07/11/2024;0:09.43;OZY!;0
+StuntC3;07/11/2024;0:09.43;Mec�OZY!;0
 StuntC4;03/01/2015;1:11.97;Edge.Fwo;0
 StuntC4;14/05/2015;1:09.54;�Mec�lDgAlAkantor;0
 StuntC4;18/10/2017;0:28.17;PT CakeyFA;0
@@ -5974,11 +5974,11 @@ StuntC4;10/03/2024;0:08.84;Ali.;0
 StuntC5;03/01/2015;1:08.03;Edge.Fwo;0
 StuntC5;28/07/2017;1:06.21;3 Pigs;0
 StuntC5;18/10/2017;0:27.24;PT CakeyFA;0
-StuntC5;07/11/2024;0:19.41;OZY!;0
+StuntC5;07/11/2024;0:19.41;Mec�OZY!;0
 StuntD1;03/01/2015;1:20.56;Edge.Fwo;0
 StuntD1;14/05/2015;0:15.45;�Mec�lDgAlAkantor;0
 StuntD1;18/10/2017;0:09.57;PT CakeyFA;0
-StuntD1;07/11/2024;0:06.21;OZY!;0
+StuntD1;07/11/2024;0:06.21;Mec�OZY!;0
 StuntD2;03/01/2015;1:28.64;Edge.Fwo;0
 StuntD2;20/04/2015;1:28.13;Edge.Fwo;0
 StuntD2;22/11/2015;1:27.20;Beridok;0
@@ -5986,25 +5986,27 @@ StuntD2;14/12/2016;1:26.50;Poutrel;0
 StuntD2;15/12/2016;1:26.46;Poutrel;0
 StuntD2;18/10/2017;1:08.14;PT CakeyFA;0
 StuntD2;20/03/2022;0:49.44;iamvickyy;0
-StuntD2;07/11/2024;0:13.15;OZY!;0
+StuntD2;07/11/2024;0:13.15;Mec�OZY!;0
 StuntD3;03/01/2015;1:24.79;Edge.Fwo;0
 StuntD3;27/11/2015;1:22.36;Edge.Fwo;0
 StuntD3;13/03/2018;1:18.71;Mnichu;0
 StuntD3;12/03/2020;0:22.23;Beridok;0
 StuntD3;20/03/2022;0:19.17;iamvickyy;0
-StuntD3;07/11/2024;0:10.32;OZY!;0
+StuntD3;07/11/2024;0:10.32;Mec�OZY!;0
 StuntD3;27/12/2024;0:09.01;TheLevelCode;0
 StuntD4;03/01/2015;1:19.62;Edge.Fwo;0
 StuntD4;14/07/2015;1:13.70;rad;0
 StuntD4;18/10/2017;0:17.27;PT CakeyFA;0
-StuntD4;07/11/2024;0:11.88;OZY!;0
+StuntD4;07/11/2024;0:11.88;Mec�OZY!;0
 StuntD5;03/01/2015;1:37.58;Edge.Fwo;0
 StuntD5;25/01/2015;1:27.97;Beridok;0
 StuntD5;22/03/2017;1:23.36;MMK4 Fan;0
 StuntD5;18/10/2017;1:21.66;PT CakeyFA;0
 StuntD5;01/10/2018;1:15.42;Mnichu;0
 StuntD5;20/03/2022;1:11.29;iamvickyy;0
-StuntD5;07/11/2024;0:06.70;OZY!;0
+StuntD5;07/11/2024;0:06.70;Mec�OZY!;0
 StuntE1;03/01/2015;2:03.41;Edge.Fwo;0
 StuntE1;25/01/2015;1:55.29;Beridok;0
 StuntE1;18/10/2017;0:05.48;PT CakeyFA;0
+StuntE1;28/07/2025;0:05.26;loupphok;0
+StuntE1;28/07/2025;0:05.08;Mebe12;0

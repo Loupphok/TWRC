@@ -5936,7 +5936,7 @@ StuntB2;03/07/2021;0:13.87;rad;0
 StuntB2;24/07/2023;0:13.67;NerfPlayeR135;0
 StuntB3;22/03/2010;0:38.61;The Black Lion;0
 StuntB3;08/07/2010;0:21.58;auaandre;0
-StuntB3;07/11/2024;0:08.89;OZY!;0
+StuntB3;07/11/2024;0:08.89;Mec臺ZY!;0
 StuntB3;27/07/2025;0:08.77;FeetTickler3000;0
 StuntB4;22/03/2010;0:43.31;Flo-Rida;0
 StuntB4;16/04/2010;0:35.72;Keirabxtch.;0
@@ -5947,24 +5947,24 @@ StuntB5;22/03/2010;0:48.04;The Black Lion;0
 StuntB5;06/07/2010;0:47.91;>Dawe;0
 StuntB5;02/12/2010;0:44.03;narutowser;0
 StuntB5;20/03/2022;0:26.94;iamvickyy;0
-StuntB5;07/11/2024;0:08.67;OZY!;0
+StuntB5;07/11/2024;0:08.67;Mec臺ZY!;0
 StuntC1;03/01/2015;1:11.20;ichq;0
 StuntC1;03/01/2015;0:39.04;PT CakeyFA;0
 StuntC1;20/03/2022;0:34.87;iamvickyy;0
 StuntC1;30/12/2023;0:28.03;therareocelot;0
-StuntC1;07/11/2024;0:10.51;OZY!;0
+StuntC1;07/11/2024;0:10.51;Mec臺ZY!;0
 StuntC2;03/01/2015;1:02.65;Edge.Fwo;0
 StuntC2;25/01/2015;1:01.41;Beridok;0
 StuntC2;17/07/2015;0:50.04;Mr8u1137;0
 StuntC2;18/10/2017;0:09.75;PT CakeyFA;0
 StuntC2;08/03/2024;0:07.86;LazerMan;0
-StuntC2;07/11/2024;0:06.83;OZY!;0
+StuntC2;07/11/2024;0:06.83;Mec臺ZY!;0
 StuntC3;03/01/2015;1:21.20;kaugummi59;0
 StuntC3;03/01/2015;1:20.12;Edge.Fwo;0
 StuntC3;27/09/2015;1:15.55;RotakeR;0
 StuntC3;18/10/2017;0:40.57;PT CakeyFA;0
 StuntC3;20/03/2022;0:26.48;iamvickyy;0
-StuntC3;07/11/2024;0:09.43;OZY!;0
+StuntC3;07/11/2024;0:09.43;Mec臺ZY!;0
 StuntC4;03/01/2015;1:11.97;Edge.Fwo;0
 StuntC4;14/05/2015;1:09.54;膂ec柝DgAlAkantor;0
 StuntC4;18/10/2017;0:28.17;PT CakeyFA;0
@@ -5973,11 +5973,11 @@ StuntC4;10/03/2024;0:08.84;Ali.;0
 StuntC5;03/01/2015;1:08.03;Edge.Fwo;0
 StuntC5;28/07/2017;1:06.21;3 Pigs;0
 StuntC5;18/10/2017;0:27.24;PT CakeyFA;0
-StuntC5;07/11/2024;0:19.41;OZY!;0
+StuntC5;07/11/2024;0:19.41;Mec臺ZY!;0
 StuntD1;03/01/2015;1:20.56;Edge.Fwo;0
 StuntD1;14/05/2015;0:15.45;膂ec柝DgAlAkantor;0
 StuntD1;18/10/2017;0:09.57;PT CakeyFA;0
-StuntD1;07/11/2024;0:06.21;OZY!;0
+StuntD1;07/11/2024;0:06.21;Mec臺ZY!;0
 StuntD2;03/01/2015;1:28.64;Edge.Fwo;0
 StuntD2;20/04/2015;1:28.13;Edge.Fwo;0
 StuntD2;22/11/2015;1:27.20;Beridok;0
@@ -5985,25 +5985,27 @@ StuntD2;14/12/2016;1:26.50;Poutrel;0
 StuntD2;15/12/2016;1:26.46;Poutrel;0
 StuntD2;18/10/2017;1:08.14;PT CakeyFA;0
 StuntD2;20/03/2022;0:49.44;iamvickyy;0
-StuntD2;07/11/2024;0:13.15;OZY!;0
+StuntD2;07/11/2024;0:13.15;Mec臺ZY!;0
 StuntD3;03/01/2015;1:24.79;Edge.Fwo;0
 StuntD3;27/11/2015;1:22.36;Edge.Fwo;0
 StuntD3;13/03/2018;1:18.71;Mnichu;0
 StuntD3;12/03/2020;0:22.23;Beridok;0
 StuntD3;20/03/2022;0:19.17;iamvickyy;0
-StuntD3;07/11/2024;0:10.32;OZY!;0
+StuntD3;07/11/2024;0:10.32;Mec臺ZY!;0
 StuntD3;27/12/2024;0:09.01;TheLevelCode;0
 StuntD4;03/01/2015;1:19.62;Edge.Fwo;0
 StuntD4;14/07/2015;1:13.70;rad;0
 StuntD4;18/10/2017;0:17.27;PT CakeyFA;0
-StuntD4;07/11/2024;0:11.88;OZY!;0
+StuntD4;07/11/2024;0:11.88;Mec臺ZY!;0
 StuntD5;03/01/2015;1:37.58;Edge.Fwo;0
 StuntD5;25/01/2015;1:27.97;Beridok;0
 StuntD5;22/03/2017;1:23.36;MMK4 Fan;0
 StuntD5;18/10/2017;1:21.66;PT CakeyFA;0
 StuntD5;01/10/2018;1:15.42;Mnichu;0
 StuntD5;20/03/2022;1:11.29;iamvickyy;0
-StuntD5;07/11/2024;0:06.70;OZY!;0
+StuntD5;07/11/2024;0:06.70;Mec臺ZY!;0
 StuntE1;03/01/2015;2:03.41;Edge.Fwo;0
 StuntE1;25/01/2015;1:55.29;Beridok;0
 StuntE1;18/10/2017;0:05.48;PT CakeyFA;0
+StuntE1;28/07/2025;0:05.26;loupphok;0
+StuntE1;28/07/2025;0:05.08;Mebe12;0
