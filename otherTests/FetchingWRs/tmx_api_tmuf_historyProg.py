@@ -6,7 +6,7 @@ def get_all_nadeo_uploads():
     from datetime import datetime
 
     # Import nadeo track data
-    file_path = 'otherTests/FetchingWRs/TMUFST_mapdata.txt'
+    file_path = 'otherTests/FetchingWRs/bon.txt'
     track_info = {}
     with open(file_path, 'r') as file:
         headers = file.readline().strip().split('\t')
