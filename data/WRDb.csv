@@ -1559,6 +1559,7 @@ Loupphok;B07 - Stadium;32.716;17/03/2020;.;Stadium;TM2;14;a
 Affi;B07 - Stadium;37.684;02/04/2020;New trick;Stadium;TM2;15;a
 instable;B07 - Stadium;37.668;29/03/2024;.;Stadium;TM2;16;a
 Flechetas;B07 - Stadium;37.665;09/04/2024;.;Stadium;TM2;17;a
+instable;B07 - Stadium;37.656;31/08/2025;.;Stadium;TM2;18;a
 Wally;B08 - Stadium;26.791;25/06/2013;.;Stadium;TM2;1;a
 Wally;B08 - Stadium;26.780;01/07/2013;.;Stadium;TM2;2;a
 CarlJr;B08 - Stadium;26.771;27/07/2013;.;Stadium;TM2;3;a
@@ -2070,6 +2071,7 @@ CarlJr;D05 - Stadium;1:35.491;09/07/2017;.;Stadium;TM2;4;a
 Kappa;D05 - Stadium;1:35.280;30/08/2018;Driven on Alt;Stadium;TM2;5;a
 Kappa;D05 - Stadium;1:34.926;30/04/2020;Sub 1:35;Stadium;TM2;6;a
 Raceta;D05 - Stadium;1:34.873;27/08/2020;.;Stadium;TM2;7;a
+Levon;D05 - Stadium;1:34.801;07/09/2025;.;Stadium;TM2;8;a
 Flyer;D06 - Stadium;48.372;25/06/2013;.;Stadium;TM2;1;a
 Wally;D06 - Stadium;48.064;29/06/2013;.;Stadium;TM2;2;a
 Tween;D06 - Stadium;47.960;24/08/2013;Sub 48;Stadium;TM2;3;a
@@ -2223,6 +2225,7 @@ Kappa;D14 - Stadium;1:00.681;03/05/2020;.;Stadium;TM2;14;a
 Levon;D14 - Stadium;1:00.628;19/08/2022;.;Stadium;TM2;15;a
 Raceta;D14 - Stadium;1:00.601;21/02/2023;.;Stadium;TM2;16;a
 neon;D14 - Stadium;1:00.593;16/03/2025;.;Stadium;TM2;17;a
+Levon;D14 - Stadium;1:00.586;06/09/2025;.;Stadium;TM2;18;a
 Vogter;D15 - Stadium;7:44.606;30/07/2013;.;Stadium;TM2;1;a
 Tween;D15 - Stadium;7:43.658;30/07/2013;Sub 7:44;Stadium;TM2;2;a
 Tween;D15 - Stadium;7:42.151;24/08/2013;.;Stadium;TM2;3;a
@@ -7355,7 +7358,7 @@ Spammiej;200;1:03.552;09/12/2016;.;Stadium;TMT;14;a
 riolu;200;1:03.225;02/10/2018;.;Stadium;TMT;15;a
 mime;200;1:03.394;20/08/2021;.;Stadium;TMT;16;a
 Schmaniol;200;1:03.291;26/07/2022;.;Stadium;TMT;17;a
-mime;200;1:03.275;09/08/2022;.;Stadium;TMT;18;a
+mime;200;1:03.275;09/08/2022;New line;Stadium;TMT;18;a
 Fanakuri;200;1:03.014;09/05/2023;.;Stadium;TMT;19;a
 mime;200;1:02.886;04/08/2024;.;Stadium;TMT;20;a
 McNeil82;A01-Race;0:24.54;16/04/2008;.;Stadium;TMNF;1;2638
@@ -7920,6 +7923,7 @@ Virtuoso.;B05-Race;0:25.22;09/03/2015;.;Stadium;TMNF;19;2038197
 amz!Emiel;B05-Race;0:25.21;25/06/2015;.;Stadium;TMNF;20;5537515
 STORMRunner;B05-Race;0:25.11;28/01/2016;.;Stadium;TMNF;21;3982868
 casper #mot;B05-Race;0:25.09;29/11/2019;.;Stadium;TMNF;22;6160108
+Lukefast;B05-Race;0:25.01;03/09/2025;.;Stadium;TMNF;23;11831438
 BluEjAck;B06-Obstacle;0:28.28;16/04/2008;.;Stadium;TMNF;1;2930
 M SleriSM;B06-Obstacle;0:27.54;16/04/2008;.;Stadium;TMNF;2;3649
 Zarall;B06-Obstacle;0:27.40;16/04/2008;.;Stadium;TMNF;3;4482
