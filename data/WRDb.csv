@@ -71,6 +71,7 @@ rez;A04 - Canyon;18.566;09/01/2018;.;Canyon;TM2;19;a
 Mebe12;A04 - Canyon;18.521;23/09/2020;.;Canyon;TM2;20;a
 Mebe12;A04 - Canyon;18.504;12/12/2020;.;Canyon;TM2;21;a
 Mebe12;A04 - Canyon;18.391;15/12/2020;.;Canyon;TM2;22;a
+Mebe12;A04 - Canyon;18.346;15/09/2025;.;Canyon;TM2;23;a
 riolu;A05 - Canyon;1:27.346;27/12/2011;.;Canyon;TM2;1;a
 riolu;A05 - Canyon;1:26.950;21/01/2012;.;Canyon;TM2;2;a
 riolu;A05 - Canyon;1:26.766;20/12/2012;.;Canyon;TM2;3;a
@@ -2244,6 +2245,7 @@ CarlJr;E01 - Stadium;59.514;14/01/2018;.;Stadium;TM2;9;a
 Spammiej;E01 - Stadium;59.438;17/09/2018;.;Stadium;TM2;10;a
 Kappa;E01 - Stadium;59.268;08/05/2020;.;Stadium;TM2;11;a
 Loupphok;E01 - Stadium;59.266;16/06/2024;.;Stadium;TM2;12;a
+Loupphok;E01 - Stadium;59.238;15/09/2025;.;Stadium;TM2;13;a
 Wally;E02 - Stadium;57.992;08/07/2013;.;Stadium;TM2;1;a
 Tomsen;E02 - Stadium;57.734;20/08/2013;.;Stadium;TM2;2;a
 vrbica;E02 - Stadium;57.305;25/06/2014;New cut;Stadium;TM2;3;a
@@ -4470,6 +4472,9 @@ Fanakuri;020;1:05.284;25/10/2023;.;Valley;TMT;15;a
 Fanakuri;020;1:05.192;25/10/2023;.;Valley;TMT;16;a
 Fanakuri;020;1:05.148;25/10/2023;.;Valley;TMT;17;a
 AM98;020;1:05.131;12/09/2025;.;Valley;TMT;18;a
+AM98;020;1:05.128;12/09/2025;.;Valley;TMT;19;a
+Fanakuri;020;1:05.002;13/09/2025;.;Valley;TMT;20;a
+Fanakuri;020;1:04.924;13/09/2025;.;Valley;TMT;21;a
 Lars;021;21.62x;21/03/2016;.;Lagoon;TMT;1;a
 MGM;021;21.618;24/03/2016;.;Lagoon;TMT;2;a
 styx;021;21.577;25/03/2016;.;Lagoon;TMT;3;a
@@ -6747,6 +6752,7 @@ riolu;160;2:50.987;09/12/2018;.;Stadium;TMT;5;a
 Sapi;160;2:50.832;14/08/2021;DUCK;Stadium;TMT;6;a
 mime;160;2:50.718;??/08/2021;.;Stadium;TMT;7;a
 mime;160;2:49.720;26/08/2021;.;Stadium;TMT;8;a
+Ondra;160;2:48.595;12/09/2025;.;Stadium;TMT;9;a
 Suptim4L;161;1:07.185;01/04/2016;.;Canyon;TMT;1;a
 TommyD1zzle;161;1:07.005;03/05/2016;.;Canyon;TMT;2;a
 riolu;161;1:05.664;08/05/2016;.;Canyon;TMT;3;a
@@ -6779,6 +6785,9 @@ Voyager006;162;48.598;26/12/2021;.;Canyon;TMT;16;a
 Fanakuri;162;48.584;27/12/2021;.;Canyon;TMT;17;a
 Fanakuri;162;48.581;27/12/2021;.;Canyon;TMT;18;a
 Fanakuri;162;48.521;27/12/2021;.;Canyon;TMT;19;a
+Fanakuri;162;48.497;15/09/2025;.;Canyon;TMT;20;a
+Fanakuri;162;48.415;15/09/2025;.;Canyon;TMT;21;a
+Fanakuri;162;48.407;15/09/2025;.;Canyon;TMT;22;a
 L94;163;42.611;18/04/2016;.;Canyon;TMT;1;a
 harimau2197;163;42.221;27/04/2016;.;Canyon;TMT;2;a
 harimau2197;163;41.758;28/04/2016;.;Canyon;TMT;3;a
@@ -6813,6 +6822,10 @@ Fanakuri;165;3:19.50x;27/08/2021;.;Canyon;TMT;9;a
 Dekz;165;3:18.912;19/08/2021;DUCK;Canyon;TMT;10;a
 Fanakuri;165;3:17.946;30/09/2021;.;Canyon;TMT;11;a
 Fanakuri;165;3:17.652;06/08/2023;.;Canyon;TMT;12;a
+Fanakuri;165;3:17.093;15/09/2025;.;Canyon;TMT;13;a
+Fanakuri;165;3:16.829;15/09/2025;.;Canyon;TMT;14;a
+Fanakuri;165;3:16.642;15/09/2025;.;Canyon;TMT;15;a
+Fanakuri;165;3:16.474;15/09/2025;.;Canyon;TMT;16;a
 Smoontjes;166;1:12.107;09/04/2016;.;Canyon;TMT;1;a
 chuckie;166;1:11.003;11/04/2016;.;Canyon;TMT;2;a
 riolu;166;1:10.550;06/05/2016;.;Canyon;TMT;3;a
