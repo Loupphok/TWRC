@@ -2246,6 +2246,7 @@ Spammiej;E01 - Stadium;59.438;17/09/2018;.;Stadium;TM2;10;a
 Kappa;E01 - Stadium;59.268;08/05/2020;.;Stadium;TM2;11;a
 Loupphok;E01 - Stadium;59.266;16/06/2024;.;Stadium;TM2;12;a
 Loupphok;E01 - Stadium;59.238;15/09/2025;.;Stadium;TM2;13;a
+Levon;E01 - Stadium;59.214;21/09/2025;.;Stadium;TM2;14;a
 Wally;E02 - Stadium;57.992;08/07/2013;.;Stadium;TM2;1;a
 Tomsen;E02 - Stadium;57.734;20/08/2013;.;Stadium;TM2;2;a
 vrbica;E02 - Stadium;57.305;25/06/2014;New cut;Stadium;TM2;3;a
@@ -3856,6 +3857,7 @@ wormk22;C13 - Lagoon;27.602;04/02/2022;.;Lagoon;TM2;17;a
 mattjimjett;C13 - Lagoon;27.588;13/03/2023;.;Lagoon;TM2;18;a
 wormk22;C13 - Lagoon;27.577;13/06/2024;.;Lagoon;TM2;19;a
 wormk22;C13 - Lagoon;27.572;16/07/2024;.;Lagoon;TM2;20;a
+wormk22;C13 - Lagoon;27.548;21/09/2025;.;Lagoon;TM2;21;a
 styx;C14 - Lagoon;35.185;??/05/2017;Cheated;Lagoon;TM2;1;a
 riolu;C14 - Lagoon;35.031;??/08/2017;.;Lagoon;TM2;2;a
 wortex;C14 - Lagoon;34.901;??/??/????;>04/2018;Lagoon;TM2;3;a
@@ -5306,14 +5308,17 @@ styx;068;35.324;27/03/2016;.;Lagoon;TMT;4;a
 riolu;068;35.315;11/04/2016;.;Lagoon;TMT;5;a
 Nawk;068;34.805;13/04/2016;New Cut;Lagoon;TMT;6;a
 DarkLink94;068;34.530;29/01/2017;.;Lagoon;TMT;7;a
-Anzone;068;32.862;10/06/2018;.;Lagoon;TMT;8;a
-Samerlifofwer;068;32.695;05/11/2018;.;Lagoon;TMT;9;a
-riolu;068;32.294;22/12/2018;Live;Lagoon;TMT;10;a
-Fanakuri;068;32.693;14/11/2023;.;Lagoon;TMT;11;a
-Samerlifofwer;068;32.634;30/11/2023;.;Lagoon;TMT;12;a
-Samerlifofwer;068;32.418;03/12/2023;.;Lagoon;TMT;13;a
-Samerlifofwer;068;32.352;04/12/2023;.;Lagoon;TMT;14;a
-Fanakuri;068;32.147;05/12/2023;DUCK;Lagoon;TMT;15;a
+RS Tornado;068;33.36x;05/11/2017;.;Lagoon;TMT;8;a
+RS Tornado;068;33.20x;??/??/2017;.;Lagoon;TMT;9;a
+RS Tornado;068;33.107;04/12/2017;.;Lagoon;TMT;10;a
+Anzone;068;32.862;10/06/2018;.;Lagoon;TMT;11;a
+Samerlifofwer;068;32.695;05/11/2018;.;Lagoon;TMT;12;a
+riolu;068;32.294;22/12/2018;Live;Lagoon;TMT;13;a
+Fanakuri;068;32.693;14/11/2023;.;Lagoon;TMT;14;a
+Samerlifofwer;068;32.634;30/11/2023;.;Lagoon;TMT;15;a
+Samerlifofwer;068;32.418;03/12/2023;.;Lagoon;TMT;16;a
+Samerlifofwer;068;32.352;04/12/2023;.;Lagoon;TMT;17;a
+Fanakuri;068;32.147;05/12/2023;DUCK;Lagoon;TMT;18;a
 Robert;069;33.040;24/03/2016;.;Lagoon;TMT;1;a
 CarlJr;069;33.013;25/03/2016;.;Lagoon;TMT;2;a
 Purification;069;32.908;25/03/2016;.;Lagoon;TMT;3;a
@@ -6013,11 +6018,12 @@ Laznox;108;37.42x;30/06/2017;.;Lagoon;TMT;15;a
 Demedi;108;37.257;19/10/2018;.;Lagoon;TMT;16;a
 Laznox;108;37.208;22/10/2018;.;Lagoon;TMT;17;a
 riolu;108;37.178;27/11/2018;.;Lagoon;TMT;18;a
-Samerlifofwer;108;37.16x;06/07/2021;DUCK;Lagoon;TMT;19;a
-Samerlifofwer;108;37.154;09/08/2022;.;Lagoon;TMT;20;a
-Samerlifofwer;108;37.121;09/08/2022;.;Lagoon;TMT;21;a
-Samerlifofwer;108;37.09x;??/07/2024;.;Lagoon;TMT;22;a
-Samerlifofwer;108;37.051;31/07/2024;.;Lagoon;TMT;23;a
+RS Tornado;108;37.178;06/05/2021;DUCK;Lagoon;TMT;19;a
+Samerlifofwer;108;37.16x;06/07/2021;.;Lagoon;TMT;20;a
+Samerlifofwer;108;37.154;09/08/2022;.;Lagoon;TMT;21;a
+Samerlifofwer;108;37.121;09/08/2022;.;Lagoon;TMT;22;a
+Samerlifofwer;108;37.09x;??/07/2024;.;Lagoon;TMT;23;a
+Samerlifofwer;108;37.051;31/07/2024;.;Lagoon;TMT;24;a
 marios2000;109;44.423;24/03/2016;.;Lagoon;TMT;1;a
 acidmist;109;44.187;26/03/2016;.;Lagoon;TMT;2;a
 FunnyBear;109;44.102;26/03/2016;.;Lagoon;TMT;3;a
@@ -6108,10 +6114,11 @@ racehans;113;36.999;03/05/2016;.;Stadium;TMT;5;a
 riolu;113;36.913;17/11/2018;.;Stadium;TMT;6;a
 Nayko;113;36.881;26/12/2020;DUCK;Stadium;TMT;7;a
 Nayko;113;36.767;28/12/2020;.;Stadium;TMT;8;a
-Fanakuri;113;36.724;17/06/2023;.;Stadium;TMT;9;a
-Fanakuri;113;36.655;20/06/2023;.;Stadium;TMT;10;a
-RotakeR;113;36.522;09/09/2023;.;Stadium;TMT;11;a
-RotakeR;113;36.528;10/09/2023;.;Stadium;TMT;12;a
+RS Tornado;113;36.746;06/04/2023;.;Stadium;TMT;9;a
+Fanakuri;113;36.724;17/06/2023;.;Stadium;TMT;10;a
+Fanakuri;113;36.655;20/06/2023;.;Stadium;TMT;11;a
+RotakeR;113;36.528;09/09/2023;.;Stadium;TMT;12;a
+RotakeR;113;36.522;10/09/2023;.;Stadium;TMT;13;a
 Koenz;114;48.976;24/03/2016;.;Stadium;TMT;1;a
 DanikB;114;47.470;25/03/2016;.;Stadium;TMT;2;a
 Lookid;114;47.344;03/04/2016;.;Stadium;TMT;3;a
@@ -6290,11 +6297,12 @@ riolu;125;2:52.979;10/12/2018;.;Canyon;TMT;7;a
 ydooWoody;125;2:52.875;06/09/2019;DUCK;Canyon;TMT;8;a
 LoustaL;125;2:52.185;23/06/2020;.;Canyon;TMT;9;a
 Solidtrees;125;2:51.191;17/11/2021;New cut;Canyon;TMT;10;a
-Fanakuri;125;2:50.928;04/10/2022;.;Canyon;TMT;11;a
-Fanakuri;125;2:50.563;06/10/2022;.;Canyon;TMT;12;a
-Fanakuri;125;2:50.466;12/10/2022;.;Canyon;TMT;13;a
-Scoped;125;2:48.844;14/09/2024;.;Canyon;TMT;14;a
-Fanakuri;125;2:48.497;14/09/2024;.;Canyon;TMT;15;a
+RS Tornado;125;2:50.957;15/01/2022;.;Canyon;TMT;11;a
+Fanakuri;125;2:50.928;04/10/2022;.;Canyon;TMT;12;a
+Fanakuri;125;2:50.563;06/10/2022;.;Canyon;TMT;13;a
+Fanakuri;125;2:50.466;12/10/2022;.;Canyon;TMT;14;a
+Scoped;125;2:48.844;14/09/2024;.;Canyon;TMT;15;a
+Fanakuri;125;2:48.497;14/09/2024;.;Canyon;TMT;16;a
 riolu;126;1:02.258;13/04/2016;.;Canyon;TMT;1;a
 riolu;126;1:02.172;13/04/2016;.;Canyon;TMT;2;a
 riolu;126;1:01.856;14/04/2016;.;Canyon;TMT;3;a
@@ -7137,13 +7145,14 @@ Neko;184;1:11.927;12/07/2016;.;Lagoon;TMT;2;a
 Neko;184;1:11.582;13/07/2016;.;Lagoon;TMT;3;a
 riolu;184;1:11:560;30/07/2016;.;Lagoon;TMT;4;a
 asier;184;1:11.365;27/06/2017;.;Lagoon;TMT;5;a
-Samerlifofwer;184;1:11.03x;13/11/2018;.;Lagoon;TMT;6;a
-riolu;184;1:10.928;15/11/2018;.;Lagoon;TMT;7;a
-Samerlifofwer;184;1:10.84x;15/12/2020;.;Lagoon;TMT;8;a
-Samerlifofwer;184;1:10.00x;??/12/2020;.;Lagoon;TMT;9;a
-Samerlifofwer;184;1:09.612;20/12/2020;.;Lagoon;TMT;10;a
-faqez;184;1:09.575;08/04/2024;.;Lagoon;TMT;11;a
-Samerlifofwer;184;1:09.440;10/10/2024;.;Lagoon;TMT;12;a
+Speed;184;1:11.297;01/09/2018;.;Lagoon;TMT;6;a
+Samerlifofwer;184;1:11.03x;13/11/2018;.;Lagoon;TMT;7;a
+riolu;184;1:10.928;15/11/2018;.;Lagoon;TMT;8;a
+Samerlifofwer;184;1:10.84x;15/12/2020;.;Lagoon;TMT;9;a
+Samerlifofwer;184;1:10.00x;??/12/2020;.;Lagoon;TMT;10;a
+Samerlifofwer;184;1:09.612;20/12/2020;.;Lagoon;TMT;11;a
+faqez;184;1:09.575;08/04/2024;.;Lagoon;TMT;12;a
+Samerlifofwer;184;1:09.440;10/10/2024;.;Lagoon;TMT;13;a
 Monti;185;3:51.591;03/04/2016;.;Lagoon;TMT;1;a
 NJin;185;3:51.436;05/05/2016;.;Lagoon;TMT;2;a
 styx;185;3:51.191;15/05/2016;.;Lagoon;TMT;3;a
