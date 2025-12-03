@@ -4698,7 +4698,7 @@ NJin;029;25.947;25/03/2016;.;Lagoon;TMT;2;a
 racerlight;029;25.945;25/03/2016;.;Lagoon;TMT;3;a
 tayck;029;25.927;27/03/2016;.;Lagoon;TMT;4;a
 Zycos;029;25.856;27/03/2016;.;Lagoon;TMT;5;a
-styx;029;25.808;28/03/2016;Cheated;Lagoon;TMT;6;a
+styx;029;25.808;28/03/2016;Cheated/STM;Lagoon;TMT;6;a
 styx;029;25.786;03/05/2016;Cheated;Lagoon;TMT;7;a
 riolu;029;25.770;21/10/2016;Cheated;Lagoon;TMT;8;a
 riolu;029;25.768;19/08/2018;Live;Lagoon;TMT;9;a
@@ -5022,8 +5022,8 @@ masterkey;049;37.213;25/03/2016;.;Canyon;TMT;2;a
 introC;049;37.165;27/03/2016;.;Canyon;TMT;3;a
 meson;049;37.110;28/03/2016;.;Canyon;TMT;4;a
 Alewka;049;36.950;02/04/2016;.;Canyon;TMT;5;a
-riolu;049;36.92;07/04/2016;Live;Canyon;TMT;6;a
-riolu;049;36.865;07/04/2016;Live;Canyon;TMT;7;a
+riolu;049;36.92x;07/04/2016;Live;Canyon;TMT;6;a
+riolu;049;36.865;07/04/2016;Live/STM;Canyon;TMT;7;a
 marios2000;049;36.710;10/04/2016;.;Canyon;TMT;8;a
 riolu;049;36.578;14/04/2016;Cheated;Canyon;TMT;9;a
 Shamzie;049;36.688;30/11/2017;.;Canyon;TMT;10;a
@@ -5611,7 +5611,7 @@ Nize;083;33.175;28/03/2016;.;Canyon;TMT;3;a
 Lemonte;083;33.128;31/03/2016;.;Canyon;TMT;4;a
 Nightmartin;083;32.547;03/04/2016;.;Canyon;TMT;5;a
 riolu;083;32.073;04/04/2016;Cheated;Canyon;TMT;6;a
-riolu;083;31.862;10/04/2016;Cheated;Canyon;TMT;7;a
+riolu;083;31.862;10/04/2016;Cheated/STM;Canyon;TMT;7;a
 Azora;083;31.836;24/05/2016;.;Canyon;TMT;8;a
 Spammiej;083;31.807;12/01/2017;.;Canyon;TMT;9;a
 riolu;083;31.747;26/11/2018;Cheated;Canyon;TMT;10;a
@@ -5629,7 +5629,7 @@ L94;084;44.826;02/04/2016;.;Canyon;TMT;5;a
 riolu;084;44.258;05/04/2016;Cheated;Canyon;TMT;6;a
 riolu;084;44.163;03/05/2016;Cheated;Canyon;TMT;7;a
 riolu;084;44.020;03/05/2016;Cheated;Canyon;TMT;8;a
-riolu;084;43.967;04/05/2016;Cheated;Canyon;TMT;9;a
+riolu;084;43.967;04/05/2016;Cheated/STM;Canyon;TMT;9;a
 asier;084;43.960;30/11/2016;.;Canyon;TMT;10;a
 riolu;084;43.947;16/12/2016;Live;Canyon;TMT;11;a
 asier;084;43.931;18/12/2016;.;Canyon;TMT;12;a
@@ -5648,7 +5648,7 @@ masterkey;085;2:43.499;26/03/2016;.;Canyon;TMT;4;a
 Bill;085;2:42.843;26/03/2016;.;Canyon;TMT;5;a
 asier;085;2:42.101;26/03/2016;.;Canyon;TMT;6;a
 racehans;085;2:41.949;26/03/2016;.;Canyon;TMT;7;a
-Danneboy;085;2:39.012;29/03/2016;.;Canyon;TMT;8;a
+Danneboy;085;2:39.012;29/03/2016;STM;Canyon;TMT;8;a
 riolu;085;2:38.309;04/04/2016;Cheated;Canyon;TMT;9;a
 Samerlifofwer;085;2:37.697;09/02/2019;.;Canyon;TMT;10;a
 riolu;085;2:37.342;06/09/2018;Live;Canyon;TMT;11;a
@@ -5662,7 +5662,7 @@ marios2000;086;43.995;24/03/2016;.;Canyon;TMT;1;a
 Greenius;086;43.572;26/03/2016;.;Canyon;TMT;2;a
 Richie;086;43.477;27/03/2016;.;Canyon;TMT;3;a
 riolu;086;43.237;03/04/2016;Cheated;Canyon;TMT;4;a
-riolu;086;43.108;15/05/2016;Cheated;Canyon;TMT;5;a
+riolu;086;43.108;15/05/2016;Cheated/STM;Canyon;TMT;5;a
 Zypher;086;43.052;20/05/2016;.;Canyon;TMT;6;a
 riolu;086;43.047;23/05/2016;Cheated;Canyon;TMT;7;a
 riolu;086;42.937;23/05/2016;Cheated;Canyon;TMT;8;a
@@ -5686,7 +5686,7 @@ Maddeeen;087;47.795;27/03/2016;.;Canyon;TMT;2;a
 Lemonte;087;47.688;31/03/2016;.;Canyon;TMT;3;a
 Eve_v;087;47.538;01/04/2016;.;Canyon;TMT;4;a
 riolu;087;47.036;02/04/2016;Cheated;Canyon;TMT;5;a
-riolu;087;46.888;02/04/2016;Cheated;Canyon;TMT;6;a
+riolu;087;46.888;02/04/2016;Cheated/STM;Canyon;TMT;6;a
 Zypher;087;46.880;20/05/2016;.;Canyon;TMT;7;a
 riolu;087;46.807;23/05/2016;Cheated;Canyon;TMT;8;a
 riolu;087;46.661;31/01/2019;Cheated;Canyon;TMT;9;a
@@ -5706,7 +5706,7 @@ Fanakuri;087;46.272;04/01/2024;.;Canyon;TMT;22;a
 hec_ker;088;39.995;24/03/2016;.;Canyon;TMT;1;a
 badvertex;088;39.913;25/03/2016;.;Canyon;TMT;2;a
 invader3;088;39.467;26/03/2016;.;Canyon;TMT;3;a
-riolu;088;38.956;05/04/2016;Cheated;Canyon;TMT;4;a
+riolu;088;38.956;05/04/2016;Cheated/STM;Canyon;TMT;4;a
 riolu;088;38.872;07/04/2016;Cheated;Canyon;TMT;5;a
 Zypher;088;38.708;20/05/2016;.;Canyon;TMT;6;a
 riolu;088;38.661;23/05/2016;Cheated;Canyon;TMT;7;a
@@ -5733,7 +5733,7 @@ Greenius;089;51.892;26/03/2016;.;Canyon;TMT;4;a
 riolu;089;51.077;03/04/2016;Cheated;Canyon;TMT;5;a
 Zypher;089;50.815;20/05/2016;.;Canyon;TMT;6;a
 Zypher;089;50.570;20/05/2016;.;Canyon;TMT;7;a
-Zypher;089;50.533;20/05/2016;.;Canyon;TMT;8;a
+Zypher;089;50.533;20/05/2016;STM;Canyon;TMT;8;a
 riolu;089;50.455;04/06/2016;Cheated;Canyon;TMT;9;a
 asier;089;50.240;03/12/2016;.;Canyon;TMT;10;a
 riolu;089;50.158;16/12/2016;Live;Canyon;TMT;11;a
@@ -5751,7 +5751,7 @@ JuelzMtojay;090;3:00.720;24/03/2016;.;Canyon;TMT;1;a
 Lokring;090;2:58.729;25/03/2016;.;Canyon;TMT;2;a
 masterkey;090;2:58.477;26/03/2016;.;Canyon;TMT;3;a
 racehans;090;2:58.367;26/03/2016;.;Canyon;TMT;4;a
-riolu;090;2:56.365;02/04/2016;Cheated;Canyon;TMT;5;a
+riolu;090;2:56.365;02/04/2016;Cheated/STM;Canyon;TMT;5;a
 acidmist;090;2:55.404;17/05/2016;.;Canyon;TMT;6;a
 riolu;090;2:54.704;06/10/2016;Live;Canyon;TMT;7;a
 Mebe12;090;2:54.55x;03/09/2018;.;Canyon;TMT;8;a
@@ -5769,7 +5769,7 @@ Mazzargh;091;47.472;25/03/2016;.;Valley;TMT;2;a
 Lemonte;091;47.462;01/04/2016;.;Valley;TMT;3;a
 riolu;091;47.011;04/04/2016;Cheated;Valley;TMT;4;a
 riolu;091;46.912;12/06/2016;Cheated;Valley;TMT;5;a
-riolu;091;46.753;01/07/2016;Cheated;Valley;TMT;6;a
+riolu;091;46.753;01/07/2016;Cheated/STM;Valley;TMT;6;a
 Spammiej;091;46.613;22/11/2016;.;Valley;TMT;7;a
 riolu;091;46.495;24/11/2016;Cheated;Valley;TMT;8;a
 Nsgr;091;46.42x;08/01/2019;.;Valley;TMT;9;a
@@ -5803,14 +5803,14 @@ atomariel;093;42.538;25/03/2016;.;Valley;TMT;2;a
 Slimpikcet;093;42.529;25/03/2016;.;Valley;TMT;3;a
 BigBang1112;093;41.726;26/03/2016;.;Valley;TMT;4;a
 riolu;093;41.672;04/04/2016;Cheated;Valley;TMT;5;a
-NeYo-8826;093;37.167;16/04/2016;New cut;Valley;TMT;6;a
+NeYo-8826;093;37.167;16/04/2016;New cut/STM;Valley;TMT;6;a
 riolu;093;37.462;13/12/2018;Live;Valley;TMT;7;a
 Fanakuri;093;36.322;27/03/2023;DUCK;Valley;TMT;8;a
 MGM;094;46.041;25/03/2016;.;Valley;TMT;1;a
 ColdM4mba;094;45.797;25/03/2016;.;Valley;TMT;2;a
 KamiPenguin;094;44.665;27/03/2016;.;Valley;TMT;3;a
 riolu;094;43.503;05/04/2016;Cheated;Valley;TMT;4;a
-riolu;094;43.228;01/07/2016;Cheated;Valley;TMT;5;a
+riolu;094;43.228;01/07/2016;Cheated/STM;Valley;TMT;5;a
 Spammiej;094;43.095;09/03/2017;.;Valley;TMT;6;a
 Samerlifofwer;094;43.06x;01/07/2018;.;Valley;TMT;7;a
 Samerlifofwer;094;42.821;01/07/2018;.;Valley;TMT;8;a
@@ -5828,7 +5828,7 @@ Zypher;095;1:53.598;28/03/2016;.;Valley;TMT;6;a
 riolu;095;1:52.507;04/04/2016;Cheated;Valley;TMT;7;a
 riolu;095;1:51.904;05/04/2016;Cheated;Valley;TMT;8;a
 Neko;095;1:51.676;23/06/2016;.;Valley;TMT;9;a
-riolu;095;1:51.555;01/07/2016;Cheated;Valley;TMT;10;a
+riolu;095;1:51.555;01/07/2016;Cheated/STM;Valley;TMT;10;a
 asier;095;1:51.184;18/01/2017;.;Valley;TMT;11;a
 riolu;095;1:51.156;20/01/2017;Live;Valley;TMT;12;a
 Speed;095;1:51.045;24/09/2019;DUCK;Valley;TMT;13;a
@@ -5858,7 +5858,7 @@ MGM;097;44.682;24/03/2016;.;Valley;TMT;1;a
 RedExtra;097;44.159;26/03/2016;.;Valley;TMT;2;a
 racehans;097;44.057;26/03/2016;.;Valley;TMT;3;a
 Koenz;097;43.025;02/04/2016;.;Valley;TMT;4;a
-riolu;097;42.931;07/04/2016;Live;Valley;TMT;5;a
+riolu;097;42.931;07/04/2016;Live/STM;Valley;TMT;5;a
 riolu;097;42.521;16/06/2016;Cheated;Valley;TMT;6;a
 riolu;097;41.972;12/08/2018;Live;Valley;TMT;7;a
 RS Tornado;097;41.907;22/05/2020;.;Valley;TMT;8;a
@@ -5869,7 +5869,7 @@ Fanakuri;097;41.477;16/02/2021;.;Valley;TMT;12;a
 Fanakuri;097;41.384;11/08/2022;.;Valley;TMT;13;a
 Pac;098;46.450;24/03/2016;.;Valley;TMT;1;a
 asier;098;46.360;27/03/2016;.;Valley;TMT;2;a
-Nawk;098;43.948;28/03/2016;New cut;Valley;TMT;3;a
+Nawk;098;43.948;28/03/2016;New cut/STM;Valley;TMT;3;a
 NeYo-8826;098;43.262;30/03/2016;.;Valley;TMT;4;a
 riolu;098;42.958;03/01/2019;Cheated;Valley;TMT;5;a
 Fanakuri;098;42.861;22/09/2022;.;Valley;TMT;6;a
@@ -5961,7 +5961,7 @@ Robert;103;40.511;25/03/2016;.;Lagoon;TMT;4;a
 Sypher;103;40.448;26/03/2016;.;Lagoon;TMT;5;a
 Advision;103;40.397;28/03/2016;.;Lagoon;TMT;6;a
 riolu;103;40.333;06/04/2016;Cheated;Lagoon;TMT;7;a
-Hivee;103;40.252;09/04/2016;.;Lagoon;TMT;8;a
+Hivee;103;40.252;09/04/2016;STM;Lagoon;TMT;8;a
 riolu;103;40.221;24/05/2016;Cheated;Lagoon;TMT;9;a
 DarkLink94;103;40.198;07/06/2016;.;Lagoon;TMT;10;a
 riolu;103;40.143;18/10/2016;Live;Lagoon;TMT;11;a
@@ -6009,7 +6009,7 @@ Robert;105;2:01.510;25/03/2016;.;Lagoon;TMT;4;a
 styx;105;2:01.459;25/03/2016;Cheated;Lagoon;TMT;5;a
 Coradon24;105;2:01.156;29/03/2016;.;Lagoon;TMT;6;a
 L94;105;2:00.839;09/04/2016;.;Lagoon;TMT;7;a
-riolu;105;2:00.630;11/04/2016;Live;Lagoon;TMT;8;a
+riolu;105;2:00.630;11/04/2016;Live/STM;Lagoon;TMT;8;a
 Fugma;105;2:00.496;27/06/2016;.;Lagoon;TMT;9;a
 riolu;105;1:59.693;30/06/2016;Cheated;Lagoon;TMT;10;a
 YxalagOiram;105;01:59.646;27/02/2017;.;Lagoon;TMT;11;a
@@ -6033,7 +6033,7 @@ Galaxym;106;42.678;27/03/2016;.;Lagoon;TMT;6;a
 Slafz;106;42.657;28/03/2016;.;Lagoon;TMT;7;a
 Coradon24;106;42.531;29/03/2016;.;Lagoon;TMT;8;a
 riolu;106;42.334;07/04/2016;Cheated;Lagoon;TMT;9;a
-riolu;106;42.218;08/04/2016;Cheated;Lagoon;TMT;10;a
+riolu;106;42.218;08/04/2016;Cheated/STM;Lagoon;TMT;10;a
 NJin;106;42.169;05/05/2016;.;Lagoon;TMT;11;a
 Neko;106;42.035;31/05/2016;.;Lagoon;TMT;12;a
 riolu;106;41.985;03/06/2016;Cheated;Lagoon;TMT;13;a
@@ -6105,7 +6105,7 @@ acidmist;109;44.187;26/03/2016;.;Lagoon;TMT;2;a
 FunnyBear;109;44.102;26/03/2016;.;Lagoon;TMT;3;a
 EmulsifyTO;109;43.380;27/03/2016;.;Lagoon;TMT;4;a
 riolu;109;43.30x;12/04/2016;Live;Lagoon;TMT;5;a
-riolu;109;42.676;12/04/2016;Live;Lagoon;TMT;6;a
+riolu;109;42.676;12/04/2016;Live/STM;Lagoon;TMT;6;a
 TheBoldMan;109;42.470;24/04/2016;.;Lagoon;TMT;7;a
 DarkLink94;109;42.357;27/01/2017;.;Lagoon;TMT;8;a
 riolu;109;42.030;30/01/2017;Live;Lagoon;TMT;9;a
@@ -6185,21 +6185,22 @@ Sapi;112;40.986;08/02/2023;.;Stadium;TMT;19;a
 Fanakuri;112;40.892;28/02/2023;.;Stadium;TMT;20;a
 Scotsman;113;41.363;24/03/2016;.;Stadium;TMT;1;a
 Pac;113;40.932;25/03/2016;.;Stadium;TMT;2;a
-Koenz;113;37.188;25/03/2016;.;Stadium;TMT;3;a
-CarlJr;113;37.004;15/03/2016;.;Stadium;TMT;4;a
-racehans;113;36.999;03/05/2016;.;Stadium;TMT;5;a
-riolu;113;36.913;17/11/2018;Cheated;Stadium;TMT;6;a
-Nayko;113;36.881;26/12/2020;DUCK;Stadium;TMT;7;a
-Nayko;113;36.767;28/12/2020;.;Stadium;TMT;8;a
-RS Tornado;113;36.746;06/04/2023;.;Stadium;TMT;9;a
-Fanakuri;113;36.724;17/06/2023;.;Stadium;TMT;10;a
-Fanakuri;113;36.655;20/06/2023;.;Stadium;TMT;11;a
-RotakeR;113;36.528;09/09/2023;.;Stadium;TMT;12;a
-RotakeR;113;36.522;10/09/2023;.;Stadium;TMT;13;a
+Koenz;113;37.37x;25/03/2016;STM;Stadium;TMT;3;a
+Koenz;113;37.188;25/03/2016;.;Stadium;TMT;4;a
+CarlJr;113;37.004;15/03/2016;.;Stadium;TMT;5;a
+racehans;113;36.999;03/05/2016;.;Stadium;TMT;6;a
+riolu;113;36.913;17/11/2018;Cheated;Stadium;TMT;7;a
+Nayko;113;36.881;26/12/2020;DUCK;Stadium;TMT;8;a
+Nayko;113;36.767;28/12/2020;.;Stadium;TMT;9;a
+RS Tornado;113;36.746;06/04/2023;.;Stadium;TMT;10;a
+Fanakuri;113;36.724;17/06/2023;.;Stadium;TMT;11;a
+Fanakuri;113;36.655;20/06/2023;.;Stadium;TMT;12;a
+RotakeR;113;36.528;09/09/2023;.;Stadium;TMT;13;a
+RotakeR;113;36.522;10/09/2023;.;Stadium;TMT;14;a
 Koenz;114;48.976;24/03/2016;.;Stadium;TMT;1;a
 DanikB;114;47.470;25/03/2016;.;Stadium;TMT;2;a
 Lookid;114;47.344;03/04/2016;.;Stadium;TMT;3;a
-FunnyBear;114;46.861;05/04/2016;.;Stadium;TMT;4;a
+FunnyBear;114;46.861;05/04/2016;STM;Stadium;TMT;4;a
 CarlJr;114;46.601;18/04/2016;.;Stadium;TMT;5;a
 Bren;114;46.558;21/04/2016;.;Stadium;TMT;6;a
 racehans;114;46.331;03/05/2016;.;Stadium;TMT;7;a
@@ -6216,7 +6217,7 @@ RotakeR;114;45.652;02/06/2024;.;Stadium;TMT;17;a
 Spammiej;115;2:01.456;24/03/2016;.;Stadium;TMT;1;a
 Pac;115;1:59.115;25/03/2016;.;Stadium;TMT;2;a
 Nize;115;1:57.887;05/04/2016;.;Stadium;TMT;3;a
-riolu;115;1:57.235;08/04/2016;Cheated;Stadium;TMT;4;a
+riolu;115;1:57.235;08/04/2016;Cheated/STM;Stadium;TMT;4;a
 Fire!;115;1:56.996;09/04/2016;.;Stadium;TMT;5;a
 CarlJr;115;1:56.086;18/04/2016;.;Stadium;TMT;6;a
 racehans;115;1:55.878;03/05/2016;.;Stadium;TMT;7;a
@@ -6229,7 +6230,7 @@ MGM;116;47.458;25/03/2016;.;Stadium;TMT;3;a
 TekkForce;116;46.801;26/03/2016;.;Stadium;TMT;4;a
 TheBigBerta;116;45.773;26/03/2016;.;Stadium;TMT;5;a
 DanikB;116;44.984;31/03/2016;.;Stadium;TMT;6;a
-CarlJr;116;44.790;17/04/2016;.;Stadium;TMT;7;a
+CarlJr;116;44.790;17/04/2016;STM;Stadium;TMT;7;a
 racehans;116;44.775;04/05/2016;.;Stadium;TMT;8;a
 DanikB;116;44.773;10/06/2016;.;Stadium;TMT;9;a
 Pekmez;116;44.750;11/06/2016;.;Stadium;TMT;10;a
@@ -6246,7 +6247,7 @@ Scotsman;117;38.864;26/03/2016;.;Stadium;TMT;5;a
 Quinoob;117;38.480;28/03/2016;.;Stadium;TMT;6;a
 DanikB;117;38.398;02/04/2016;.;Stadium;TMT;7;a
 CarlJr;117;38.373;06/04/2016;.;Stadium;TMT;8;a
-riolu;117;38.268;08/04/2016;Cheated;Stadium;TMT;9;a
+riolu;117;38.268;08/04/2016;Cheated/STM;Stadium;TMT;9;a
 racehans;117;38.161;04/05/2016;.;Stadium;TMT;10;a
 riolu;117;38.156;18/10/2016;Cheated;Stadium;TMT;11;a
 riolu;117;38.091;18/10/2016;Live;Stadium;TMT;12;a
@@ -6262,7 +6263,7 @@ TheBigBerta;118;42.856;26/03/2016;.;Stadium;TMT;4;a
 IceBluez;118;42.421;28/03/2016;.;Stadium;TMT;5;a
 FranLJump;118;42.391;28/03/2016;.;Stadium;TMT;6;a
 Nize;118;42.320;05/04/2016;.;Stadium;TMT;7;a
-Pac;118;41.268;05/04/2016;.;Stadium;TMT;8;a
+Pac;118;41.268;05/04/2016;STM;Stadium;TMT;8;a
 riolu;118;41.221;02/11/2018;Cheated;Stadium;TMT;9;a
 Crinatiraxx;118;41.263;12/05/2020;.;Stadium;TMT;10;a
 RotakeR;118;41.211;29/07/2022;.;Stadium;TMT;11;a
@@ -6276,7 +6277,7 @@ Granady;119;44.014;27/03/2016;.;Stadium;TMT;5;a
 sinto;119;43.980;31/03/2016;.;Stadium;TMT;6;a
 Nize;119;43.834;06/04/2016;.;Stadium;TMT;7;a
 CarlJr;119;43.758;06/04/2016;.;Stadium;TMT;8;a
-Hivee;119;43.566;30/04/2016;.;Stadium;TMT;9;a
+Hivee;119;43.566;30/04/2016;STM;Stadium;TMT;9;a
 Raceta;119;43.554;??/??/????;<05/2018;Stadium;TMT;10;a
 riolu;119;43.376;08/09/2018;Live;Stadium;TMT;11;a
 riolu;119;43.33x;??/??/????;Cheated;Stadium;TMT;12;a
@@ -6293,7 +6294,7 @@ MatrixX;120;1:57.124;25/03/2016;.;Stadium;TMT;3;a
 Zimiio;120;1:53.680;26/03/2016;.;Stadium;TMT;4;a
 ClearVision;120;1:53.678;29/03/2016;.;Stadium;TMT;5;a
 Nize;120;1:51.817;06/04/2016;.;Stadium;TMT;6;a
-Scrapie;120;1:49.885;08/04/2016;.;Stadium;TMT;7;a
+Scrapie;120;1:49.885;08/04/2016;STM;Stadium;TMT;7;a
 Spammiej;120;1:49.714;17/08/2016;.;Stadium;TMT;8;a
 riolu;120;1:49.660;22/10/2018;Cheated;Stadium;TMT;9;a
 RotakeR;120;1:49.478;23/02/2020;DUCK;Stadium;TMT;10;a
@@ -6313,7 +6314,7 @@ Azora;121;46.885;24/06/2016;.;Canyon;TMT;8;a
 Azora;121;46.505;28/06/2016;.;Canyon;TMT;9;a
 riolu;121;46.438;22/03/2021;Cheated;Canyon;TMT;10;a
 Fanakuri;121;46.358;30/07/2021;DUCK;Canyon;TMT;11;a
-riolu;122;41.344;11/04/2016;Live;Canyon;TMT;1;a
+riolu;122;41.344;11/04/2016;Live/STM;Canyon;TMT;1;a
 Jerome;122;41.262;03/09/2016;.;Canyon;TMT;2;a
 riolu;122;41.198;13/09/2016;Cheated;Canyon;TMT;3;a
 edk;122;41.170;27/06/2019;.;Canyon;TMT;4;a
@@ -6332,7 +6333,7 @@ Mebe12;122;40.947;16/12/2022;.;Canyon;TMT;16;a
 Fanakuri;122;40.944;26/12/2022;.;Canyon;TMT;17;a
 Matza;123;41.863;11/04/2016;.;Canyon;TMT;1;a
 L94;123;41.622;14/04/2016;.;Canyon;TMT;2;a
-L94;123;41.170;14/04/2016;.;Canyon;TMT;3;a
+L94;123;41.170;14/04/2016;STM;Canyon;TMT;3;a
 riolu;123;40.913;01/06/2016;Cheated;Canyon;TMT;4;a
 Jerome;123;40.860;07/09/2016;.;Canyon;TMT;5;a
 riolu;123;40.775;13/09/2016;Cheated;Canyon;TMT;6;a
@@ -6343,7 +6344,7 @@ Fanakuri;123;40.471;22/07/2023;.;Canyon;TMT;10;a
 Fanakuri;123;40.422;23/07/2023;.;Canyon;TMT;11;a
 Suptim4L;124;42.165;06/04/2016;.;Canyon;TMT;1;a
 riolu;124;42.057;11/04/2016;Live;Canyon;TMT;2;a
-riolu;124;41.715;11/04/2016;Live;Canyon;TMT;3;a
+riolu;124;41.715;11/04/2016;Live/STM;Canyon;TMT;3;a
 Neko;124;41.70x;14/05/2016;.;Canyon;TMT;4;a
 riolu;124;41.687;14/05/2016;Cheated;Canyon;TMT;5;a
 Neko;124;41.59x;14/05/2016;.;Canyon;TMT;6;a
@@ -6382,7 +6383,7 @@ Scoped;125;2:48.844;14/09/2024;.;Canyon;TMT;15;a
 Fanakuri;125;2:48.497;14/09/2024;.;Canyon;TMT;16;a
 riolu;126;1:02.258;13/04/2016;Cheated;Canyon;TMT;1;a
 riolu;126;1:02.172;13/04/2016;Cheated;Canyon;TMT;2;a
-riolu;126;1:01.856;14/04/2016;Cheated;Canyon;TMT;3;a
+riolu;126;1:01.856;14/04/2016;Cheated/STM;Canyon;TMT;3;a
 Jerome;126;1:01.545;12/09/2016;.;Canyon;TMT;4;a
 riolu;126;1:01.523;14/09/2016;Cheated;Canyon;TMT;5;a
 riolu;126;1:01.476;??/??/????;Cheated;Canyon;TMT;6;a
@@ -6504,7 +6505,7 @@ Fanakuri;133;54.863;28/09/2023;.;Valley;TMT;10;a
 Fanakuri;133;54.630;28/09/2023;.;Valley;TMT;11;a
 riolu;134;55.978;16/04/2016;Cheated;Valley;TMT;1;a
 riolu;134;55.702;05/05/2016;Cheated;Valley;TMT;2;a
-riolu;134;55.553;12/06/2016;Cheated;Valley;TMT;3;a
+riolu;134;55.553;12/06/2016;Cheated/STM;Valley;TMT;3;a
 Spammiej;134;55.355;04/05/2017;.;Valley;TMT;4;a
 riolu;134;55.188;03/09/2018;Live;Valley;TMT;5;a
 riolu;134;54.798;??/??/????;Cheated;Valley;TMT;6;a
@@ -6524,7 +6525,7 @@ Fanakuri;135;3:15.521;21/07/2023;.;Valley;TMT;8;a
 Fanakuri;135;3:15.300;21/07/2023;.;Valley;TMT;9;a
 Fanakuri;135;3:14.888;04/10/2023;.;Valley;TMT;10;a
 L94;136;51.692;15/04/2016;.;Valley;TMT;1;a
-riolu;136;51.038;26/04/2016;Live;Valley;TMT;2;a
+riolu;136;51.038;26/04/2016;Live/STM;Valley;TMT;2;a
 Spammiej;136;51.003;25/11/2016;.;Valley;TMT;3;a
 riolu;136;50.978;29/11/2016;Cheated;Valley;TMT;4;a
 riolu;136;50.753;27/11/2018;Cheated;Valley;TMT;5;a
@@ -6539,7 +6540,7 @@ Fanakuri;136;50.224;20/03/2023;.;Valley;TMT;13;a
 Fanakuri;136;50.108;09/10/2023;.;Valley;TMT;14;a
 Mentaloli;137;58.68x;07/04/2016;.;Valley;TMT;1;a
 Mentaloli;137;58.651;07/04/2016;.;Valley;TMT;2;a
-DarkLink94;137;57.031;08/04/2016;.;Valley;TMT;3;a
+DarkLink94;137;57.031;08/04/2016;STM;Valley;TMT;3;a
 NeYo-8826;137;55.311;16/04/2016;.;Valley;TMT;4;a
 riolu;137;55.283;09/12/2018;Cheated;Valley;TMT;5;a
 Fanakuri;137;54.613;18/05/2022;DUCK;Valley;TMT;6;a
@@ -6561,7 +6562,7 @@ Fanakuri;138;46.892;13/05/2022;.;Valley;TMT;15;a
 Fanakuri;138;46.306;06/07/2023;DUCK;Valley;TMT;16;a
 Mentaloli;139;53.885;07/04/2016;.;Valley;TMT;1;a
 riolu;139;53.128;26/04/2016;Cheated;Valley;TMT;2;a
-riolu;139;52.842;27/04/2016;Cheated;Valley;TMT;3;a
+riolu;139;52.842;27/04/2016;Cheated/STM;Valley;TMT;3;a
 Neko;139;52.836;24/06/2016;.;Valley;TMT;4;a
 riolu;139;52.571;30/06/2016;Cheated;Valley;TMT;5;a
 Speed;139;52.515;01/02/2019;.;Valley;TMT;6;a
@@ -6619,7 +6620,7 @@ riolu;142;37.246;20/09/2018;Live;Lagoon;TMT;10;a
 Taxon;142;???;??/??/2019;.;Lagoon;TMT;11;a
 riolu;142;37.201;14/01/2019;Live;Lagoon;TMT;12;a
 Taxon;142;37.185;??/??/2019;.;Lagoon;TMT;13;a
-riolu;142;37.096;28/02/2019;Live;Lagoon;TMT;14;a
+riolu;142;37.096;28/02/2019;Live/STM;Lagoon;TMT;14;a
 mime;142;37.033;24/06/2020;DUCK;Lagoon;TMT;15;a
 Samerlifofwer;142;37.023;11/09/2022;.;Lagoon;TMT;16;a
 Fanakuri;142;37.018;08/07/2023;.;Lagoon;TMT;17;a
@@ -6659,7 +6660,7 @@ Fanakuri;144;54.254;03/06/2024;.;Lagoon;TMT;12;a
 Samerlifofwer;144;54.247;06/07/2024;.;Lagoon;TMT;13;a
 riolu;145;2:48.695;24/03/2016;Cheated;Lagoon;TMT;1;a
 LEaT14eX;145;2:48.471;16/04/2016;.;Lagoon;TMT;2;a
-riolu;145;2:45.635;22/04/2016;Cheated;Lagoon;TMT;3;a
+riolu;145;2:45.635;22/04/2016;Cheated/STM;Lagoon;TMT;3;a
 Neko;145;2:45.192;17/06/2016;.;Lagoon;TMT;4;a
 riolu;145;2:43.262;17/06/2016;Cheated;Lagoon;TMT;5;a
 Koala;145;2:42.703;20/11/2018;.;Lagoon;TMT;6;a
@@ -6681,7 +6682,7 @@ Samerlifofwer;145;2:40.031;22/06/2023;.;Lagoon;TMT;21;a
 Samerlifofwer;145;2:40.018;22/06/2023;.;Lagoon;TMT;22;a
 Samerlifofwer;145;2:39.855;24/06/2023;.;Lagoon;TMT;23;a
 riolu;146;47.267;25/04/2016;Cheated;Lagoon;TMT;1;a
-riolu;146;47.143;27/04/2016;Cheated;Lagoon;TMT;2;a
+riolu;146;47.143;27/04/2016;Cheated/STM;Lagoon;TMT;2;a
 Spammiej;146;47.006;21/10/2016;.;Lagoon;TMT;3;a
 styx;146;46.984;22/01/2017;Cheated;Lagoon;TMT;4;a
 Samerlifofwer;146;46.980;13/09/2018;.;Lagoon;TMT;5;a
@@ -6695,18 +6696,19 @@ Samerlifofwer;146;46.74x;1?/02/2022;.;Lagoon;TMT;10;a
 Samerlifofwer;146;46.654;14/02/2022;.;Lagoon;TMT;11;a
 Samerlifofwer;146;46.614;16/01/2024;.;Lagoon;TMT;12;a
 Samerlifofwer;146;46.524;05/02/2024;.;Lagoon;TMT;13;a
-riolu;147;57.222;26/04/2016;Live;Lagoon;TMT;1;a
-Luffy;147;57.156;06/05/2016;.;Lagoon;TMT;2;a
-DarkLink94;147;57.132;17/06/2016;.;Lagoon;TMT;3;a
-riolu;147;57.034;20/06/2016;Cheated;Lagoon;TMT;4;a
-Samerlifofwer;147;57.001;01/03/2020;.;Lagoon;TMT;5;a
-Samerlifofwer;147;56.970;02/03/2020;.;Lagoon;TMT;6;a
-riolu;147;56.960;01/07/2020;Cheated;Lagoon;TMT;7;a
-Samerlifofwer;147;56.66x;??/01/2021;DUCK;Lagoon;TMT;8;a
-Samerlifofwer;147;56.565;19/01/2021;.;Lagoon;TMT;9;a
-Samerlifofwer;147;56.524;10/05/2023;.;Lagoon;TMT;10;a
-Samerlifofwer;147;56.427;10/05/2023;.;Lagoon;TMT;11;a
-Samerlifofwer;147;56.311;21/10/2024;.;Lagoon;TMT;12;a
+katerbarg;147;57.337;24/04/2016;.;Lagoon;TMT;1;a
+riolu;147;57.222;26/04/2016;Live/STM;Lagoon;TMT;2;a
+Luffy;147;57.156;06/05/2016;.;Lagoon;TMT;3;a
+DarkLink94;147;57.132;17/06/2016;.;Lagoon;TMT;4;a
+riolu;147;57.034;20/06/2016;Cheated;Lagoon;TMT;5;a
+Samerlifofwer;147;57.001;01/03/2020;.;Lagoon;TMT;6;a
+Samerlifofwer;147;56.970;02/03/2020;.;Lagoon;TMT;7;a
+riolu;147;56.960;01/07/2020;Cheated;Lagoon;TMT;8;a
+Samerlifofwer;147;56.66x;??/01/2021;DUCK;Lagoon;TMT;9;a
+Samerlifofwer;147;56.565;19/01/2021;.;Lagoon;TMT;10;a
+Samerlifofwer;147;56.524;10/05/2023;.;Lagoon;TMT;11;a
+Samerlifofwer;147;56.427;10/05/2023;.;Lagoon;TMT;12;a
+Samerlifofwer;147;56.311;21/10/2024;.;Lagoon;TMT;13;a
 Danneboy;148;52.976;30/03/2016;.;Lagoon;TMT;1;a
 DarkLink94;148;52.421;18/06/2016;STM;Lagoon;TMT;2;a
 riolu;148;52.342;09/09/2018;Live;Lagoon;TMT;3;a
@@ -6757,7 +6759,7 @@ Samerlifofwer;150;2:46.243;18/08/2022;.;Lagoon;TMT;13;a
 Samerlifofwer;150;2:45.811;19/08/2022;DUCK;Lagoon;TMT;14;a
 Samerlifofwer;150;2:45.525;19/08/2022;.;Lagoon;TMT;15;a
 CarlJr;151;50.458;25/04/2016;.;Stadium;TMT;1;a
-riolu;151;49.834;29/04/2016;Cheated;Stadium;TMT;2;a
+riolu;151;49.834;29/04/2016;Cheated/STM;Stadium;TMT;2;a
 Samerlifofwer;151;49.673;25/05/2018;.;Stadium;TMT;3;a
 riolu;151;49.550;02/11/2018;Cheated;Stadium;TMT;4;a
 RotakeR;151;49.540;16/03/2020;DUCK;Stadium;TMT;5;a
@@ -6770,7 +6772,7 @@ riolu;152;41.277;24/03/2016;Cheated;Stadium;TMT;1;a
 lumatom;152;41.055;28/03/2016;.;Stadium;TMT;2;a
 racehans;152;40.920;28/03/2016;.;Stadium;TMT;3;a
 YxalagOiram;152;40.774;16/04/2016;.;Stadium;TMT;4;a
-Keby;152;40.645;21/04/2016;.;Stadium;TMT;5;a
+Keby;152;40.645;21/04/2016;STM;Stadium;TMT;5;a
 xxAlex765xx;152;40.623;27/04/2016;.;Stadium;TMT;6;a
 xxAlex765xx;152;40.512;27/04/2016;.;Stadium;TMT;7;a
 Keby;152;40.498;30/04/2016;.;Stadium;TMT;8;a
@@ -6790,7 +6792,7 @@ xxAlex765xx;153;38.587;27/04/2016;.;Stadium;TMT;7;a
 riolu;153;38.492;02/05/2016;Cheated;Stadium;TMT;8;a
 riolu;153;38.137;05/05/2016;Cheated;Stadium;TMT;9;a
 7Alvin;153;38.056;10/05/2016;.;Stadium;TMT;10;a
-7Alvin;153;38.013;10/05/2016;.;Stadium;TMT;11;a
+7Alvin;153;38.013;10/05/2016;STM;Stadium;TMT;11;a
 7Alvin;153;37.985;11/05/2016;.;Stadium;TMT;12;a
 Spammiej;153;37.973;14/09/2016;.;Stadium;TMT;13;a
 riolu;153;37.531;08/09/2018;Live/New cut;Stadium;TMT;14;a
@@ -6820,7 +6822,7 @@ Joltysonic;155;2:00.868;06/11/2020;DUCK;Stadium;TMT;7;a
 Schmaniol;155;2:00.578;09/08/2022;.;Stadium;TMT;8;a
 Koenz;156;43.129;23/03/2016;.;Stadium;TMT;1;a
 CarlJr;156;43.078;06/04/2016;.;Stadium;TMT;2;a
-riolu;156;42.876;05/09/2016;Cheated;Stadium;TMT;3;a
+riolu;156;42.876;05/09/2016;Cheated/STM;Stadium;TMT;3;a
 Spammiej;156;42.866;24/03/2017;.;Stadium;TMT;4;a
 riolu;156;42.786;10/09/2018;Live;Stadium;TMT;5;a
 riolu;156;42.378;07/01/2019;Cheated;Stadium;TMT;6;a
@@ -6898,7 +6900,7 @@ Caluadan;162;50.183;29/04/2016;.;Canyon;TMT;2;a
 7Alvin;162;49.636;01/05/2016;.;Canyon;TMT;4;a
 Neko;162;49.577;15/05/2016;.;Canyon;TMT;5;a
 7Alvin;162;49.378;15/05/2016;.;Canyon;TMT;6;a
-7Alvin;162;49.267;16/05/2016;.;Canyon;TMT;7;a
+7Alvin;162;49.267;16/05/2016;STM;Canyon;TMT;7;a
 riolu;162;49.155;16/05/2016;Live;Canyon;TMT;8;a
 7Alvin;162;48.988;16/05/2016;.;Canyon;TMT;9;a
 7Alvin;162;48.945;18/06/2016;.;Canyon;TMT;10;a
@@ -6928,8 +6930,8 @@ Fanakuri;163;41.065;06/07/2021;.;Canyon;TMT;11;a
 Fanakuri;163;40.940;19/11/2022;.;Canyon;TMT;12;a
 Fanakuri;163;40.796;20/11/2022;DUCK;Canyon;TMT;13;a
 Azortharion;164;1:10.978;19/04/2016;.;Canyon;TMT;1;a
-riolu;164;1:09.301;06/05/2016;Live;Canyon;TMT;2;a
-asier;164;1:07.740;16/01/2017;.;Canyon;TMT;3;a
+riolu;164;1:09.301;06/05/2016;Live/STM;Canyon;TMT;2;a
+asier;164;1:07.740;16/01/2017;.;Canyon;TMT;3;a  
 riolu;164;1:07.308;27/01/2017;Live;Canyon;TMT;4;a
 Fanakuri;164;1:07.693;22/06/2021;.;Canyon;TMT;5;a
 Fanakuri;164;1:07.216;27/12/2022;DUCK;Canyon;TMT;6;a
@@ -6938,7 +6940,7 @@ Fanakuri;164;1:07.072;19/07/2023;.;Canyon;TMT;8;a
 Fanakuri;164;1:06.648;20/07/2023;.;Canyon;TMT;9;a
 LEaT14eX;165;3:25.315;17/04/2016;.;Canyon;TMT;1;a
 Advision;165;3:23.649;11/05/2016;.;Canyon;TMT;2;a
-riolu;165;3:22.223;11/05/2016;Live;Canyon;TMT;3;a
+riolu;165;3:22.223;11/05/2016;Live/STM;Canyon;TMT;3;a
 asier;165;3:20.737;31/12/2016;.;Canyon;TMT;4;a
 riolu;165;3:20.447;31/01/2017;Live;Canyon;TMT;5;a
 riolu;165;3:18.942;24/04/2017;Live;Canyon;TMT;6;a
@@ -7046,7 +7048,7 @@ styx;172;1:00.301;01/04/2016;.;Valley;TMT;1;a
 riolu;172;58.484;14/05/2016;Cheated;Valley;TMT;2;a
 riolu;172;58.197;08/09/2016;Cheated;Valley;TMT;3;a
 riolu;172;57.967;16/09/2016;Cheated;Valley;TMT;4;a
-riolu;172;57.923;23/09/2016;Cheated;Valley;TMT;5;a
+riolu;172;57.923;23/09/2016;Cheated/STM;Valley;TMT;5;a
 Spammiej;172;57.780;12/01/2017;.;Valley;TMT;6;a
 riolu;172;57.728;24/01/2017;Cheated;Valley;TMT;7;a
 Samerlifofwer;172;57.688;01/07/2019;.;Valley;TMT;8;a
@@ -7056,7 +7058,7 @@ Speed;172;57.450;26/08/2021;.;Valley;TMT;11;a
 Fanakuri;172;57.442;30/09/2022;.;Valley;TMT;12;a
 Dog;173;1:31.783;08/04/2016;.;Valley;TMT;1;a
 Hubble;173;1:31.433;05/05/2016;.;Valley;TMT;2;a
-riolu;173;1:30.934;16/05/2016;Live;Valley;TMT;3;a
+riolu;173;1:30.934;16/05/2016;Live/STM;Valley;TMT;3;a
 DarkLink94;173;1:30.728;21/06/2016;.;Valley;TMT;4;a
 riolu;173;1:30.698;30/06/2016;Cheated;Valley;TMT;5;a
 DarkLink94;173;1:30.434;02/10/2016;.;Valley;TMT;6;a
@@ -7071,7 +7073,7 @@ Fanakuri;173;1:29.194;19/10/2023;.;Valley;TMT;14;a
 Fanakuri;173;1:28.825;28/04/2024;.;Valley;TMT;15;a
 Rom;174;52.456;25/04/2016;.;Valley;TMT;1;a
 riolu;174;52.083;19/05/2016;Cheated;Valley;TMT;2;a
-riolu;174;51.826;19/05/2016;Cheated;Valley;TMT;3;a
+riolu;174;51.826;19/05/2016;Cheated/STM;Valley;TMT;3;a
 riolu;174;51.446;19/05/2016;Cheated;Valley;TMT;4;a
 asier;174;51.426;01/02/2017;.;Valley;TMT;5;a
 riolu;174;51.283;30/03/2017;Live;Valley;TMT;6;a
@@ -7089,7 +7091,7 @@ riolu;175;3:28.677;25/03/2016;Cheated;Valley;TMT;1;a
 Ace-Killer;175;3:27.540;27/04/2016;.;Valley;TMT;2;a
 riolu;175;3:21.741;22/05/2016;Cheated;Valley;TMT;3;a
 riolu;175;3:20.889;22/05/2016;Cheated;Valley;TMT;4;a
-riolu;175;3:18.548;21/09/2016;Cheated;Valley;TMT;5;a
+riolu;175;3:18.548;21/09/2016;Cheated/STM;Valley;TMT;5;a
 asier;175;3:18.264;07/09/2017;.;Valley;TMT;6;a
 riolu;175;3:16.928;01/09/2018;Live;Valley;TMT;7;a
 Speed;175;3:16.837;22/10/2019;DUCK;Valley;TMT;8;a
@@ -7100,7 +7102,7 @@ Spammiej;176;1:34.843;07/05/2016;.;Valley;TMT;3;a
 riolu;176;1:34.804;19/05/2016;Cheated;Valley;TMT;4;a
 riolu;176;1:34.454;19/05/2016;Cheated;Valley;TMT;5;a
 riolu;176;1:34.140;19/05/2016;Cheated;Valley;TMT;6;a
-riolu;176;1:33.711;19/05/2016;Cheated;Valley;TMT;7;a
+riolu;176;1:33.711;19/05/2016;Cheated/STM;Valley;TMT;7;a
 Spammiej;176;1:33.616;01/02/2017;.;Valley;TMT;8;a
 asier;176;1:33.386;10/02/2017;.;Valley;TMT;9;a
 riolu;176;1:32.601;24/04/2017;Live;Valley;TMT;10;a
@@ -7121,7 +7123,7 @@ riolu;177;58.384;19/05/2016;Cheated;Valley;TMT;4;a
 riolu;177;58.161;19/05/2016;Cheated;Valley;TMT;5;a
 riolu;177;57.631;19/05/2016;Cheated;Valley;TMT;6;a
 riolu;177;57.414;19/05/2016;Cheated;Valley;TMT;7;a
-riolu;177;57.291;19/05/2016;Cheated;Valley;TMT;8;a
+riolu;177;57.291;19/05/2016;Cheated/STM;Valley;TMT;8;a
 riolu;177;57.631;19/05/2016;Cheated;Valley;TMT;9;a
 riolu;177;57.291;19/05/2016;Cheated;Valley;TMT;10;a
 Spammiej;177;57.280;13/01/2017;.;Valley;TMT;11;a
@@ -7133,7 +7135,7 @@ Fanakuri;177;56.104;11/06/2023;.;Valley;TMT;16;a
 Fanakuri;177;55.926;16/07/2024;.;Valley;TMT;17;a
 Linkinito;178;1:26.411;25/04/2016;.;Valley;TMT;1;a
 riolu;178;1:26.018;25/05/2016;Cheated;Valley;TMT;2;a
-Neko;178;1:24.980;30/06/2016;.;Valley;TMT;3;a
+Neko;178;1:24.980;30/06/2016;STM;Valley;TMT;3;a
 riolu;178;1:24.668;09/08/2016;Cheated;Valley;TMT;4;a
 Spammiej;178;1:24.641;01/01/2017;.;Valley;TMT;5;a
 riolu;178;1:24.328;22/01/2017;Live;Valley;TMT;6;a
@@ -7167,7 +7169,7 @@ Slafz;180;1:49.605;04/04/2016;.;Valley;TMT;1;a
 riolu;180;1:47.738;27/05/2016;Cheated;Valley;TMT;2;a
 riolu;180;1:46.623;07/08/2016;Cheated;Valley;TMT;3;a
 riolu;180;1:45.684;07/08/2016;Cheated;Valley;TMT;4;a
-riolu;180;1:45.368;22/09/2016;Cheated;Valley;TMT;5;a
+riolu;180;1:45.368;22/09/2016;Cheated/STM;Valley;TMT;5;a
 riolu;180;1:44.947;22/01/2019;Cheated;Valley;TMT;6;a
 Demedi;180;1:44.798;02/09/2021;.;Valley;TMT;7;a
 Fanakuri;180;1:44.438;23/07/2022;.;Valley;TMT;8;a
@@ -7202,7 +7204,7 @@ Samerlifofwer;181;1:02.400;26/04/2024;.;Lagoon;TMT;26;a
 Samerlifofwer;181;1:02.271;28/04/2024;.;Lagoon;TMT;27;a
 CarlJr;182;55.491;27/03/2016;.;Lagoon;TMT;1;a
 KrisMayhem;182;55.473;04/05/2016;.;Lagoon;TMT;2;a
-KrisMayhem;182;55.198;07/05/2016;.;Lagoon;TMT;3;a
+KrisMayhem;182;55.198;07/05/2016;STM;Lagoon;TMT;3;a
 riolu;182;55.167;04/06/2016;Live;Lagoon;TMT;4;a
 styx;182;55.121;04/06/2016;Cheated;Lagoon;TMT;5;a
 riolu;182;54.622;04/06/2016;Cheated;Lagoon;TMT;6;a
@@ -7218,7 +7220,7 @@ __;183;45.697;27/04/2016;.;Lagoon;TMT;1;a
 __;183;45.482;01/06/2016;.;Lagoon;TMT;2;a
 ion;183;45.781;27/04/2016;.;Lagoon;TMT;3;a
 riolu;183;45.390;26/06/2016;Cheated;Lagoon;TMT;4;a
-Neko;183;45.163;15/07/2016;.;Lagoon;TMT;5;a
+Neko;183;45.163;15/07/2016;STM;Lagoon;TMT;5;a
 AlexisLM87;183;44.97x;??/??/????;.;Lagoon;TMT;6;a
 riolu;183;44.937;06/09/2018;Live;Lagoon;TMT;7;a
 RS Tornado;183;44.811;24/01/2021;DUCK;Lagoon;TMT;8;a
@@ -7233,7 +7235,7 @@ Wiljan;183;44.262;03/03/2025;.;Lagoon;TMT;16;a
 Samerlifofwer;183;44.215;19/03/2025;.;Lagoon;TMT;17;a
 lumatom;184;1:12.277;13/04/2016;.;Lagoon;TMT;1;a
 Neko;184;1:11.927;12/07/2016;.;Lagoon;TMT;2;a
-Neko;184;1:11.582;13/07/2016;.;Lagoon;TMT;3;a
+Neko;184;1:11.582;13/07/2016;STM;Lagoon;TMT;3;a
 riolu;184;1:11:560;30/07/2016;Live;Lagoon;TMT;4;a
 asier;184;1:11.365;27/06/2017;.;Lagoon;TMT;5;a
 Speed;184;1:11.297;01/09/2018;.;Lagoon;TMT;6;a
@@ -7248,7 +7250,7 @@ Samerlifofwer;184;1:09.440;10/10/2024;.;Lagoon;TMT;13;a
 Monti;185;3:51.591;03/04/2016;.;Lagoon;TMT;1;a
 NJin;185;3:51.436;05/05/2016;.;Lagoon;TMT;2;a
 styx;185;3:51.191;15/05/2016;.;Lagoon;TMT;3;a
-riolu;185;3:50.367;14/05/2016;Cheated;Lagoon;TMT;4;a
+riolu;185;3:50.367;14/05/2016;Cheated/STM;Lagoon;TMT;4;a
 riolu;185;3:49.507;17/12/2016;Cheated;Lagoon;TMT;5;a
 DarkLink94;185;3:49.228;03/04/2017;.;Lagoon;TMT;6;a
 riolu;185;3:49.102;25/09/2018;Live;Lagoon;TMT;7;a
@@ -7287,7 +7289,7 @@ Neko;187;56.16x;19/06/2016;.;Lagoon;TMT;3;a
 Neko;187;55.837;19/06/2016;.;Lagoon;TMT;4;a
 Neko;187;55.543;21/06/2016;.;Lagoon;TMT;5;a
 Neko;187;55.50x;21/06/2016;.;Lagoon;TMT;6;a
-Neko;187;55.284;21/06/2016;.;Lagoon;TMT;7;a
+Neko;187;55.284;21/06/2016;STM;Lagoon;TMT;7;a
 riolu;187;55.245;23/09/2016;Cheated;Lagoon;TMT;8;a
 asier;187;55.155;28/06/2017;.;Lagoon;TMT;9;a
 riolu;187;54.374;06/09/2018;Live;Lagoon;TMT;10;a
@@ -7320,7 +7322,7 @@ Samerlifofwer;188;1:43.85x;16/03/2022;.;Lagoon;TMT;17;a
 Samerlifofwer;188;1:43.225;18/03/2022;.;Lagoon;TMT;18;a
 Samerlifofwer;188;1:42.998;26/05/2023;.;Lagoon;TMT;19;a
 AsHeR4E;189;1:05.212;03/04/2016;.;Lagoon;TMT;1;a
-riolu;189;1:04.571;04/06/2016;Live;Lagoon;TMT;2;a
+riolu;189;1:04.571;04/06/2016;Live/STM;Lagoon;TMT;2;a
 Samerlifofwer;189;1:04.19x;24/11/2018;.;Lagoon;TMT;3;a
 riolu;189;1:03.904;24/11/2018;Cheated;Lagoon;TMT;4;a
 Thoringer;189;1:03.816;10/01/2021;Cheated;Lagoon;TMT;5;a
@@ -7349,7 +7351,7 @@ ion;190;1:42.230;30/04/2016;.;Lagoon;TMT;2;a
 NJin;190;1:41.293;05/05/2016;.;Lagoon;TMT;3;a
 riolu;190;1:39.975;??/??/2016;Cheated;Lagoon;TMT;4;a
 riolu;190;1:39.653;??/??/2016;Cheated;Lagoon;TMT;5;a
-riolu;190;1:38.835;16/09/2016;Cheated;Lagoon;TMT;6;a
+riolu;190;1:38.835;16/09/2016;Cheated/STM;Lagoon;TMT;6;a
 Samerlifofwer;190;1:38.77x;26/11/2018;.;Lagoon;TMT;7;a
 riolu;190;1:38.140;27/11/2018;Cheated;Lagoon;TMT;8;a
 Samerlifofwer;190;1:38.10x;??/04/2020;.;Lagoon;TMT;9;a
@@ -7365,7 +7367,7 @@ Samerlifofwer;190;1:37.49x;??/04/2020;.;Lagoon;TMT;18;a
 Samerlifofwer;190;1:37.235;22/04/2020;DUCK;Lagoon;TMT;19;a
 Samerlifofwer;190;1:37.175;09/01/2024;.;Lagoon;TMT;20;a
 Granady;191;1:05.91x;06/04/2016;.;Stadium;TMT;1;a
-DanikB;191;1:04.458;27/04/2016;.;Stadium;TMT;2;a
+DanikB;191;1:04.458;27/04/2016;STM;Stadium;TMT;2;a
 riolu;191;1:04.417;29/08/2016;Live;Stadium;TMT;3;a
 riolu;191;1:04.156;06/10/2016;Live;Stadium;TMT;4;a
 riolu;191;1:03.478;06/10/2016;Live;Stadium;TMT;5;a
@@ -7394,7 +7396,7 @@ RotakeR;192;53.873;15/07/2022;.;Stadium;TMT;12;a
 RotakeR;192;53.798;15/07/2022;.;Stadium;TMT;13;a
 CarlJr;193;49.841;26/04/2016;.;Stadium;TMT;1;a
 KevinStrike;193;49.333;12/05/2016;.;Stadium;TMT;2;a
-KevinStrike;193;48.997;13/05/2016;.;Stadium;TMT;3;a
+KevinStrike;193;48.997;13/05/2016;STM;Stadium;TMT;3;a
 riolu;193;48.946;29/08/2016;Live;Stadium;TMT;4;a
 DarkLink94;193;48.406;17/12/2016;.;Stadium;TMT;5;a
 riolu;193;48.276;04/01/2016;Cheated;Stadium;TMT;6;a
