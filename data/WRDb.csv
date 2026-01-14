@@ -1257,6 +1257,7 @@ RotakeR;A05 - Stadium;51.541;14/03/2019;.;Stadium;TM2;12;a
 Aziix;A05 - Stadium;51.525;08/11/2019;.;Stadium;TM2;13;a
 RotakeR;A05 - Stadium;51.488;28/01/2020;.;Stadium;TM2;14;a
 Loupphok;A05 - Stadium;51.478;12/05/2024;.;Stadium;TM2;15;a
+Aziix;A05 - Stadium;51.471;21/12/2025;.;Stadium;TM2;16;a
 CarlJr;A06 - Stadium;27.348;24/06/2013;.;Stadium;TM2;1;a
 CarlJr;A06 - Stadium;27.290;27/06/2013;.;Stadium;TM2;2;a
 7Alvin;A06 - Stadium;27.277;03/09/2013;.;Stadium;TM2;3;a
@@ -1686,6 +1687,7 @@ Loupphok;B13 - Stadium;23.734;06/04/2023;.;Stadium;TM2;14;a
 Loupphok;B13 - Stadium;23.728;25/04/2023;.;Stadium;TM2;15;a
 Loupphok;B13 - Stadium;23.724;02/06/2023;.;Stadium;TM2;16;a
 Loupphok;B13 - Stadium;23.692;02/06/2023;DUCK;Stadium;TM2;17;a
+instable;B13 - Stadium;23.622;06/01/2026;.;Stadium;TM2;18;a
 WiiDii;B14 - Stadium;32.533;14/07/2013;.;Stadium;TM2;1;a
 Hectrox;B14 - Stadium;32.480;27/07/2013;.;Stadium;TM2;2;a
 Smashy;B14 - Stadium;32.449;09/08/2013;.;Stadium;TM2;3;a
@@ -2771,6 +2773,7 @@ GravelGuy;B14 - Valley;34.922;02/12/2021;.;Valley;TM2;13;a
 Speed;B14 - Valley;34.918;31/01/2023;.;Valley;TM2;14;a
 Speed;B14 - Valley;34.915;03/02/2023;.;Valley;TM2;15;a
 Speed;B14 - Valley;34.861;03/02/2023;.;Valley;TM2;16;a
+AM98;B14 - Valley;34.852;05/01/2025;.;Valley;TM2;17;a
 Kamy;B15 - Valley;1:23.967;24/07/2013;.;Valley;TM2;1;a
 Cordanis;B15 - Valley;1:22.480;03/09/2013;Cheated;Valley;TM2;2;a
 Cordanis;B15 - Valley;1:21.690;05/09/2013;Cheated;Valley;TM2;3;a
@@ -2989,6 +2992,9 @@ Speed;C11 - Valley;37.669;19/02/2022;.;Valley;TM2;18;a
 Speed;C11 - Valley;37.664;19/02/2022;.;Valley;TM2;19;a
 Speed;C11 - Valley;37.544;20/02/2022;.;Valley;TM2;20;a
 AM98;C11 - Valley;37.529;14/06/2023;.;Valley;TM2;21;a
+AM98;C11 - Valley;37.494;09/01/2026;.;Valley;TM2;22;a
+AM98;C11 - Valley;37.399;09/01/2026;.;Valley;TM2;23;a
+AM98;C11 - Valley;37.349;10/01/2026;.;Valley;TM2;24;a
 Lp;C12 - Valley;46.424;03/08/2013;.;Valley;TM2;1;a
 Shadi;C12 - Valley;46.342;13/11/2013;.;Valley;TM2;2;a
 Shadi;C12 - Valley;46.597;26/11/2013;.;Valley;TM2;3;a
@@ -3037,6 +3043,8 @@ Speed;C14 - Valley;44.994;01/03/2021;.;Valley;TM2;11;a
 Mebe12;C14 - Valley;44.932;26/11/2021;.;Valley;TM2;12;a
 HQCookie;C14 - Valley;44.908;03/05/2025;.;Valley;TM2;13;a
 Mebe12;C14 - Valley;44.907;05/05/2025;.;Valley;TM2;14;a
+HQCookie;C14 - Valley;44.870;12/01/2026;.;Valley;TM2;15;a
+HQCookie;C14 - Valley;44.717;12/01/2026;.;Valley;TM2;16;a
 Joltysonic;C15 - Valley;2:46.722;04/08/2013;.;Valley;TM2;1;a
 Joltysonic;C15 - Valley;2:46.155;??/??/????;.;Valley;TM2;2;a
 riolu;C15 - Valley;2:44.475;??/??/2014;Cheated;Valley;TM2;3;a
@@ -3095,6 +3103,7 @@ Speed;D03 - Valley;30.400;07/07/2020;.;Valley;TM2;7;a
 Mebe12;D03 - Valley;30.391;28/08/2022;.;Valley;TM2;8;a
 Howell;D03 - Valley;30.378;13/09/2023;.;Valley;TM2;9;a
 Mebe12;D03 - Valley;30.364;14/09/2023;.;Valley;TM2;10;a
+Ondra;D03 - Valley,30.356;25/12/2025;.;Valley;TM2;11;a
 Joltysonic;D04 - Valley;1:00.705;13/07/2013;.;Valley;TM2;1;a
 Lp;D04 - Valley;1:00.630;05/08/2013;.;Valley;TM2;2;a
 Joltysonic;D04 - Valley;0:59.571;16/09/2013;.;Valley;TM2;3;a
@@ -3188,6 +3197,7 @@ riolu;D10 - Valley;4:48.167;02/09/2014;Cheated;Valley;TM2;3;a
 GravelGuy;D10 - Valley;4:46.821;26/08/2020;DUCK;Valley;TM2;4;a
 Speed;D10 - Valley;4:45.998;01/09/2020;.;Valley;TM2;5;a
 Mebe12;D10 - Valley;4:45.514;28/08/2022;.;Valley;TM2;6;a
+AM98;D10 - Valley;4:45.315;10/01/2026;.;Valley;TM2;7;a
 Joltysonic;D11 - Valley;1:03.880;07/08/2013;.;Valley;TM2;1;a
 edk;D11 - Valley;1:03.868;16/08/2013;.;Valley;TM2;2;a
 Joltysonic;D11 - Valley;1:03.089;20/08/2013;.;Valley;TM2;3;a
@@ -3255,7 +3265,8 @@ riolu;D15 - Valley;6:54.565;09/09/2014;Cheated;Valley;TM2;4;a
 Speed;D15 - Valley;6:54.115;03/09/2020;DUCK;Valley;TM2;5;a
 Speed;D15 - Valley;6:53.957;17/09/2021;.;Valley;TM2;6;a
 GravelGuy;D15 - Valley;6:53.742;03/02/2022;.;Valley;TM2;7;a
-Mebe12;D15 - Valley;6:41.352;27/08/2022;.;Valley;TM2;8;a
+Mebe12;D15 - Valley;6:51.352;27/08/2022;.;Valley;TM2;8;a
+AM98;D15 - Valley;6:50.798;11/01/2026;.;Valley;TM2;9;a
 Killer;E01 - Valley;1:44.219;13/08/2013;.;Valley;TM2;1;a
 Cordanis;E01 - Valley;1:39.088;??/??/????;Cheated;Valley;TM2;2;a
 riolu;E01 - Valley;1:38.864;??/??/????;Cheated;Valley;TM2;3;a
@@ -3992,6 +4003,7 @@ mime;D05 - Lagoon;2:00.455;09/06/2020;.;Lagoon;TM2;20;a
 Mebe12;D05 - Lagoon;2:00.436;01/07/2022;.;Lagoon;TM2;21;a
 riolu;D05 - Lagoon;2:00.424;03/12/2023;eddyey;Lagoon;TM2;22;a
 wormk22;D05 - Lagoon;2:00.408;27/02/2025;DUCK;Lagoon;TM2;23;a
+mime;D05 - Lagoon;2:00.378;23/12/2025;.;Lagoon;TM2;24;a
 Lumby;D06 - Lagoon;43.485;??/05/2017;.;Lagoon;TM2;1;a
 riolu;D06 - Lagoon;43.428;21/08/2019;Cheated;Lagoon;TM2;2;a
 riolu;D06 - Lagoon;43.003;03/02/2020;Cheated;Lagoon;TM2;3;a
@@ -7153,6 +7165,7 @@ riolu;178;1:22.122;??/10/2018;Live;Valley;TMT;11;a
 Demedi;178;1:22.096;13/10/2018;.;Valley;TMT;12;a
 riolu;178;1:21.928;21/02/2019;Live;Valley;TMT;13;a
 Fanakuri;178;1:21.925;23/09/2022;DUCK;Valley;TMT;14;a
+Speed;178;1:21.794;30/12/2025;.;Valley;TMT;15;a
 riolu;179;1:55:592;25/03/2016;Cheated;Valley;TMT;1;a
 riolu;179;1:51.073;22/05/2016;Cheated;Valley;TMT;2;a
 riolu;179;1:50.934;29/08/2016;Live/STM;Valley;TMT;3;a
@@ -8004,6 +8017,7 @@ Wave. emon;B02-Race;0:25.16;16/06/2018;.;Stadium;TMNF;29;214778
 dennis090;B02-Race;0:25.12;17/12/2021;.;Stadium;TMNF;30;6650217
 cab'Monster;B02-Race;0:25.06;24/04/2024;.;Stadium;TMNF;31;7334548
 Stix.;B02-Race;0:24.99;12/06/2025;.;Stadium;TMNF;32;8247999
+dennis090;B02-Race;0:24.91;25/12/2025;.;Stadium;TMNF;33;6650217
 BluEjAck;B03-Race;0:27.94;16/04/2008;.;Stadium;TMNF;1;2930
 M SleriSM;B03-Race;0:27.01;16/04/2008;.;Stadium;TMNF;2;3649
 CROBare;B03-Race;0:26.75;16/04/2008;.;Stadium;TMNF;3;2739
@@ -8039,6 +8053,7 @@ Rollin;B03-Race;0:24.53;06/04/2021;.;Stadium;TMNF;32;1158852
 Maniac';B03-Race;0:24.50;08/05/2024;.;Stadium;TMNF;33;8317003
 Maniac';B03-Race;0:24.49;29/05/2025;.;Stadium;TMNF;34;8317003
 Maniac';B03-Race;0:24.46;31/05/2025;.;Stadium;TMNF;35;8317003
+Maniac';B03-Race;0:24.32;07/01/2026;.;Stadium;TMNF;36;8317003
 adriweb;B04-Acrobatic;0:12.87;16/04/2008;.;Stadium;TMNF;1;2580
 /ITA\Silk;B04-Acrobatic;0:12.82;16/04/2008;.;Stadium;TMNF;2;2647
 UKFC ruse;B04-Acrobatic;0:12.79;16/04/2008;.;Stadium;TMNF;3;2766
@@ -9146,6 +9161,7 @@ Almighty Hefest;D08-Speed;0:47.70;03/04/2022;.;Stadium;TMNF;38;6853602
 Fwo.Link;D08-Speed;0:47.68;18/01/2025;.;Stadium;TMNF;39;7459137
 Phip-Lounge;D08-Speed;0:47.50;12/12/2025;New cut;Stadium;TMNF;40;4643068
 Fwo.Link;D08-Speed;0:47.42;14/12/2025;.;Stadium;TMNF;41;7459137
+Phip-Lounge;D08-Speed;0:47.33;12/01/2026;.;Stadium;TMNF;42;4643068
 SabineGoth;D09-Obstacle;0:46.50;16/04/2008;.;Stadium;TMNF;1;2027
 aiden.KraL';D09-Obstacle;0:46.35;16/04/2008;.;Stadium;TMNF;2;3159
 Rommel;D09-Obstacle;0:46.34;16/04/2008;.;Stadium;TMNF;3;2699
@@ -9369,7 +9385,7 @@ Wirtual #mot;D14-Endurance;2:35.49;27/02/2021;.;Stadium;TMNF;33;5721413
 crosshairs;D14-Endurance;2:35.31;04/11/2022;.;Stadium;TMNF;34;7167467
 crosshairs;D14-Endurance;2:34.96;04/11/2022;.;Stadium;TMNF;35;7167467
 crosshairs;D14-Endurance;2:34.56;06/12/2022;.;Stadium;TMNF;36;7167467
-Wirtual #mot;D14-Endurance;2:35.49;18/12/2025;.;Stadium;TMNF;37;5721413
+Wirtual #mot;D14-Endurance;2:35.01;18/12/2025;.;Stadium;TMNF;37;5721413
 enf;D15-Endurance;7:46.75;16/04/2008;.;Stadium;TMNF;1;3519
 LoG.ism;D15-Endurance;7:39.78;16/04/2008;.;Stadium;TMNF;2;3963
 Frans;D15-Endurance;7:38.96;18/04/2008;.;Stadium;TMNF;3;5701
@@ -9572,3 +9588,4 @@ Rollin;E05-Endurance;53:32.87;28/11/2018;.;Stadium;TMNF;22;1158852
 Wave. emon;E05-Endurance;53:29.48;28/12/2019;.;Stadium;TMNF;23;214778
 Wave. emon;E05-Endurance;53:25.55;04/09/2021;.;Stadium;TMNF;24;214778
 SINNERS.tween;E05-Endurance;53:25.28;31/12/2023;.;Stadium;TMNF;25;2066167
+Wave. emon;E05-Endurance;53:25.14;30/12/2025;.;Stadium;TMNF;26;214778
