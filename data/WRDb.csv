@@ -7597,7 +7597,7 @@ Marius 89;A02-Race;0:15.76;20/04/2008;.;Stadium;TMNF;8;20535
 Kluhtu#RUS;A02-Race;0:15.73;17/05/2008;.;Stadium;TMNF;9;26835
  I HIGذ;A02-Race;0:15.71;07/07/2008;.;Stadium;TMNF;10;16560
 Kluhtu#RUS;A02-Race;0:15.70;16/11/2008;.;Stadium;TMNF;11;26835
-I Chose Life :);A02-Race;0:15.66;11/05/2009;.;Stadium;TMNF;12;453527
+I Chose Life :);A02-Race;0:15.66;11/05/2009;Online;Stadium;TMNF;12;453527
 I Chose Life :);A02-Race;0:15.65;19/05/2009;.;Stadium;TMNF;13;453527
 nrc.aLex(ey);A02-Race;0:15.64;19/09/2009;.;Stadium;TMNF;14;359990
 nrc.aLex(ey);A02-Race;0:15.63;23/09/2009;.;Stadium;TMNF;15;359990
@@ -7789,26 +7789,26 @@ Marius 89;A09-Race;0:25.05;15/05/2008;.;Stadium;TMNF;17;20535
 x-ROC Marvin;A09-Race;0:24.99;12/06/2008;.;Stadium;TMNF;20;5206
  RtA mc.joey ;A09-Race;0:24.95;26/08/2008;.;Stadium;TMNF;21;211810
 m14;A09-Race;0:24.91;18/12/2008;.;Stadium;TMNF;22;301761
-I Chose Life :);A09-Race;0:24.90;07/07/2009;.;Stadium;TMNF;23;453527
+I Chose Life :);A09-Race;0:24.90;07/07/2009;Online;Stadium;TMNF;23;453527
 I Chose Life :);A09-Race;0:24.89;25/07/2009;.;Stadium;TMNF;24;453527
 nrc.aLex(ey);A09-Race;0:24.88;04/10/2009;.;Stadium;TMNF;25;359990
 I Chose Life :);A09-Race;0:24.87;10/10/2009;.;Stadium;TMNF;26;453527
 nrc.aLex(ey);A09-Race;0:24.86;12/10/2009;.;Stadium;TMNF;27;359990
 nrc.aLex(ey);A09-Race;0:24.83;13/10/2009;.;Stadium;TMNF;28;359990
 nrc.aLex(ey);A09-Race;0:24.81;03/11/2009;.;Stadium;TMNF;28;359990
-I Chose Life :);A09-Race;0:24.79;17/02/2010;.;Stadium;TMNF;29;453527
-I Chose Life :);A09-Race;0:24.77;17/11/2010;.;Stadium;TMNF;30;453527
+I Chose Life :);A09-Race;0:24.79;17/02/2010;Online;Stadium;TMNF;29;453527
+I Chose Life :);A09-Race;0:24.77;17/11/2010;Online;Stadium;TMNF;30;453527
 I Chose Life :);A09-Race;0:24.71;16/07/2011;.;Stadium;TMNF;31;453527
-I Chose Life :);A09-Race;0:24.69;16/07/2011;.;Stadium;TMNF;32;453527
-I Chose Life :);A09-Race;0:24.67;23/07/2011;.;Stadium;TMNF;33;453527
+I Chose Life :);A09-Race;0:24.69;16/07/2011;Online;Stadium;TMNF;32;453527
+I Chose Life :);A09-Race;0:24.67;23/07/2011;Online;Stadium;TMNF;33;453527
 lDgAlLuffy;A09-Race;0:24.65;23/07/2011;.;Stadium;TMNF;34;892866
-I Chose Life :);A09-Race;0:24.64;24/07/2011;.;Stadium;TMNF;35;453527
+I Chose Life :);A09-Race;0:24.64;24/07/2011;Online;Stadium;TMNF;35;453527
 lDgAlLuffy;A09-Race;0:24.62;31/07/2011;.;Stadium;TMNF;36;892866
 I Chose Life :);A09-Race;0:24.60;08/01/2012;.;Stadium;TMNF;37;453527
 Freaks  Hramo;A09-Race;0:24.59;19/03/2012;.;Stadium;TMNF;38;1631024
 I Chose Life :);A09-Race;0:24.57;11/07/2013;.;Stadium;TMNF;39;453527
 The*Maniac.!;A09-Race;0:24.55;29/12/2013;.;Stadium;TMNF;40;4759818
-I Chose Life :);A09-Race;0:24.54;24/04/2013;.;Stadium;TMNF;41;453527
+I Chose Life :);A09-Race;0:24.54;24/04/2013;Online;Stadium;TMNF;41;453527
 trinitymot;A09-Race;0:24.53;07/07/2019;.;Stadium;TMNF;42;5594219
 racehans;A09-Race;0:24.46;11/08/2019;.;Stadium;TMNF;43;3396742
 trinitymot;A09-Race;0:24.38;12/04/2020;.;Stadium;TMNF;44;5594219
@@ -7855,11 +7855,16 @@ UwSXav;A11-Race;0:18.65;08/04/2009;.;Stadium;TMNF;22;557727
 UwSXav;A11-Race;0:18.64;24/10/2009;.;Stadium;TMNF;23;557727
 UwSXav;A11-Race;0:18.63;30/11/2010;.;Stadium;TMNF;24;557727
 UwSXav;A11-Race;0:18.61;15/02/2011;.;Stadium;TMNF;25;557727
+riolu!;A11-Race;0:18.60;27/12/2011;Cheated;Stadium;TMNF;26;73985
 racehans;A11-Race;0:18.57;22/12/2013;.;Stadium;TMNF;26;3396742
+riolu!;A11-Race;0:18.56;25/12/2013;Cheated;Stadium;TMNF;26;73985
 racehans;A11-Race;0:18.55;30/12/2013;.;Stadium;TMNF;27;3396742
+riolu!;A11-Race;0:18.54;31/12/2013;Cheated;Stadium;TMNF;26;73985
+riolu!;A11-Race;0:18.52;29/07/2015;Cheated;Stadium;TMNF;26;73985
 nsc.aLyen;A11-Race;0:18.50;09/09/2017;.;Stadium;TMNF;28;906671
 racehans;A11-Race;0:18.44;18/09/2017;.;Stadium;TMNF;29;3396742
 nsc.aLyen;A11-Race;0:18.42;31/12/2018;.;Stadium;TMNF;30;906671
+riolu!;A11-Race;0:18.41;02/09/2019;Cheated;Stadium;TMNF;26;73985
 Almighty Hefest;A11-Race;0:18.40;16/06/2021;.;Stadium;TMNF;31;6853602
 Fwo.Link;A11-Race;0:18.39;04/04/2024;.;Stadium;TMNF;32;7459137
 instable!;A11-Race;0:18.35;12/01/2025;.;Stadium;TMNF;33;8662677
