@@ -8574,6 +8574,7 @@ UwSADO_PG;C04-Race;0:37.76;21/01/2011;.;Stadium;TMNF;17;387353
 Wave.PhilKos;C04-Race;0:37.72;12/06/2011;.;Stadium;TMNF;18;1581378
 Virtuoso.;C04-Race;0:37.70;16/10/2012;.;Stadium;TMNF;19;2038197
 Nino (:;C04-Race;0:37.12;09/10/2014;New cut;Stadium;TMNF;20;3911895
+riolu!;C04-Race;0:36.24;12/10/2014;Online;Stadium;TMNF;21;73985
 mime;C04-Race;0:36.07;18/03/2017;.;Stadium;TMNF;21;6148370
 Virtuoso.;C04-Race;0:36.01;06/07/2018;.;Stadium;TMNF;22;2038197
 Ryxsar;C04-Race;0:35.89;21/08/2018;.;Stadium;TMNF;23;6358248
@@ -8621,13 +8622,14 @@ Virtuoso.;C05-Endurance;1:43.93;06/10/2013;.;Stadium;TMNF;33;2038197
 racehans;C05-Endurance;1:43.81;09/10/2013;.;Stadium;TMNF;34;3396742
 Miki;C05-Endurance;1:43.63;03/05/2019;.;Stadium;TMNF;35;6693597
 racehans;C05-Endurance;1:43.58;10/08/2019;.;Stadium;TMNF;36;3396742
-racehans;C05-Endurance;1:43.44;05/06/2020;.;Stadium;TMNF;37;3396742
-racehans;C05-Endurance;1:43.41;05/06/2022;.;Stadium;TMNF;38;3396742
-Rollin;C05-Endurance;1:43.36;06/06/2022;.;Stadium;TMNF;39;1158852
-racehans;C05-Endurance;1:43.35;07/06/2022;.;Stadium;TMNF;40;3396742
-racehans;C05-Endurance;1:43.34;07/06/2022;.;Stadium;TMNF;41;3396742
-Rollin;C05-Endurance;1:43.32;12/06/2022;.;Stadium;TMNF;42;1158852
-racehans;C05-Endurance;1:43.27;12/06/2022;.;Stadium;TMNF;43;3396742
+riolu!;C05-Endurance;1:43.45;31/05/2020;Streamed;Stadium;TMNF;37;3396742
+racehans;C05-Endurance;1:43.44;05/06/2020;.;Stadium;TMNF;38;3396742
+racehans;C05-Endurance;1:43.41;05/06/2022;.;Stadium;TMNF;39;3396742
+Rollin;C05-Endurance;1:43.36;06/06/2022;.;Stadium;TMNF;40;1158852
+racehans;C05-Endurance;1:43.35;07/06/2022;.;Stadium;TMNF;41;3396742
+racehans;C05-Endurance;1:43.34;07/06/2022;.;Stadium;TMNF;42;3396742
+Rollin;C05-Endurance;1:43.32;12/06/2022;.;Stadium;TMNF;43;1158852
+racehans;C05-Endurance;1:43.27;12/06/2022;.;Stadium;TMNF;44;3396742
 Rommel;C06-Speed;0:54.09;16/04/2008;.;Stadium;TMNF;1;2699
 M SleriSM;C06-Speed;0:53.95;16/04/2008;.;Stadium;TMNF;2;3649
 *tcw*Flagg;C06-Speed;0:53.43;16/04/2008;.;Stadium;TMNF;3;4397
@@ -8651,12 +8653,14 @@ Wave. emon;C06-Speed;0:51.76;17/06/2010;.;Stadium;TMNF;20;214778
 Wave. emon;C06-Speed;0:51.71;17/06/2010;.;Stadium;TMNF;21;214778
  RtA Katic;C06-Speed;0:51.70;24/02/2012;.;Stadium;TMNF;22;3698300
 Wave. emon;C06-Speed;0:51.66;25/02/2012;.;Stadium;TMNF;23;214778
-Wave. emon;C06-Speed;0:51.64;28/07/2014;.;Stadium;TMNF;24;214778
-raceta;C06-Speed;0:51.62;09/11/2016;.;Stadium;TMNF;25;4557889
-Wave. emon;C06-Speed;0:51.56;28/11/2016;.;Stadium;TMNF;26;214778
-Drarker;C06-Speed;0:51.55;13/09/2019;.;Stadium;TMNF;27;5862361
-Almighty Hefest;C06-Speed;0:51.52;08/05/2020;.;Stadium;TMNF;28;6853602
-Wave. emon;C06-Speed;0:51.43;30/05/2021;.;Stadium;TMNF;29;214778
+riolu!;C06-Speed;0:51.65;17/02/2014;Cheated;Stadium;TMNF;24;73985
+Wave. emon;C06-Speed;0:51.64;28/07/2014;.;Stadium;TMNF;25;214778
+riolu!;C06-Speed;0:51.63;29/07/2014;Cheated;Stadium;TMNF;26;73985
+raceta;C06-Speed;0:51.62;09/11/2016;.;Stadium;TMNF;27;4557889
+Wave. emon;C06-Speed;0:51.56;28/11/2016;.;Stadium;TMNF;28;214778
+Drarker;C06-Speed;0:51.55;13/09/2019;.;Stadium;TMNF;29;5862361
+Almighty Hefest;C06-Speed;0:51.52;08/05/2020;.;Stadium;TMNF;30;6853602
+Wave. emon;C06-Speed;0:51.43;30/05/2021;.;Stadium;TMNF;31;214778
 Rommel;C07-Race;0:39.95;16/04/2008;.;Stadium;TMNF;1;2699
 aiden.KraL';C07-Race;0:39.90;16/04/2008;.;Stadium;TMNF;2;3159
 LoG.ism;C07-Race;0:39.07;16/04/2008;.;Stadium;TMNF;3;3963
@@ -8708,11 +8712,14 @@ Wave. emon;C08-Obstacle;0:25.21;22/10/2010;.;Stadium;TMNF;19;214778
 Wave. emon;C08-Obstacle;0:25.20;17/04/2011;.;Stadium;TMNF;20;214778
 Wave. emon;C08-Obstacle;0:25.17;08/01/2012;.;Stadium;TMNF;21;214778
 Wave. emon;C08-Obstacle;0:25.16;25/11/2012;.;Stadium;TMNF;22;214778
-Wave. emon;C08-Obstacle;0:25.13;26/10/2014;.;Stadium;TMNF;23;214778
-Wave. emon;C08-Obstacle;0:25.09;25/05/2017;.;Stadium;TMNF;24;214778
-Wave. emon;C08-Obstacle;0:25.08;24/10/2020;.;Stadium;TMNF;25;214778
-Wave. emon;C08-Obstacle;0:25.07;17/11/2020;.;Stadium;TMNF;26;214778
-Phip-Lounge;C08-Obstacle;0:24.93;04/11/2025;New cut;Stadium;TMNF;27;4643068
+riolu!;C08-Obstacle;0:25.15;24/10/2014;Cheated;Stadium;TMNF;23;73985
+Wave. emon;C08-Obstacle;0:25.13;26/10/2014;.;Stadium;TMNF;24;214778
+riolu!;C08-Obstacle;0:25.11;31/10/2014;Cheated;Stadium;TMNF;25;73985
+Wave. emon;C08-Obstacle;0:25.09;25/05/2017;.;Stadium;TMNF;26;214778
+riolu!;C08-Obstacle;0:25.08;10/11/2019;Cheated;Stadium;TMNF;27;73985
+Wave. emon;C08-Obstacle;0:25.08;24/10/2020;.;Stadium;TMNF;28;214778
+Wave. emon;C08-Obstacle;0:25.07;17/11/2020;.;Stadium;TMNF;29;214778
+Phip-Lounge;C08-Obstacle;0:24.93;04/11/2025;New cut;Stadium;TMNF;30;4643068
 Rommel;C09-Race;0:49.75;16/04/2008;.;Stadium;TMNF;1;2699
 .max;C09-Race;0:49.13;16/04/2008;.;Stadium;TMNF;2;2750
 dow.Dave.;C09-Race;0:48.88;16/04/2008;.;Stadium;TMNF;3;3075
