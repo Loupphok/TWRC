@@ -8656,7 +8656,7 @@ Wave. emon;C06-Speed;0:51.66;25/02/2012;.;Stadium;TMNF;23;214778
 riolu!;C06-Speed;0:51.65;17/02/2014;Cheated;Stadium;TMNF;24;73985
 Wave. emon;C06-Speed;0:51.64;28/07/2014;.;Stadium;TMNF;25;214778
 riolu!;C06-Speed;0:51.63;29/07/2014;Cheated;Stadium;TMNF;26;73985
-raceta;C06-Speed;0:51.62;09/11/2016;.;Stadium;TMNF;27;4557889
+raceta;C06-Speed;0:51.62;09/11/2016;DUCK;Stadium;TMNF;27;4557889
 Wave. emon;C06-Speed;0:51.56;28/11/2016;.;Stadium;TMNF;28;214778
 Drarker;C06-Speed;0:51.55;13/09/2019;.;Stadium;TMNF;29;5862361
 Almighty Hefest;C06-Speed;0:51.52;08/05/2020;.;Stadium;TMNF;30;6853602
@@ -8717,7 +8717,7 @@ Wave. emon;C08-Obstacle;0:25.13;26/10/2014;.;Stadium;TMNF;24;214778
 riolu!;C08-Obstacle;0:25.11;31/10/2014;Cheated;Stadium;TMNF;25;73985
 Wave. emon;C08-Obstacle;0:25.09;25/05/2017;.;Stadium;TMNF;26;214778
 riolu!;C08-Obstacle;0:25.08;10/11/2019;Cheated;Stadium;TMNF;27;73985
-Wave. emon;C08-Obstacle;0:25.08;24/10/2020;.;Stadium;TMNF;28;214778
+Wave. emon;C08-Obstacle;0:25.08;24/10/2020;DUCK;Stadium;TMNF;28;214778
 Wave. emon;C08-Obstacle;0:25.07;17/11/2020;.;Stadium;TMNF;29;214778
 Phip-Lounge;C08-Obstacle;0:24.93;04/11/2025;New cut;Stadium;TMNF;30;4643068
 Rommel;C09-Race;0:49.75;16/04/2008;.;Stadium;TMNF;1;2699
@@ -8748,11 +8748,12 @@ johalss;C09-Race;0:42.77;18/08/2015;.;Stadium;TMNF;25;5828918
 Rollin;C09-Race;0:42.67;19/08/2015;.;Stadium;TMNF;26;1158852
 Virtuoso.;C09-Race;0:42.22;21/08/2015;.;Stadium;TMNF;27;2038197
 Rollin;C09-Race;0:42.17;21/08/2015;.;Stadium;TMNF;28;1158852
-Rollin;C09-Race;0:41.81;08/06/2017;Driven on Vins account;Stadium;TMNF;29;1158852
-Nawk;C09-Race;0:41.28;17/10/2019;.;Stadium;TMNF;30;5681322
-dennis090;C09-Race;0:41.19;13/04/2022;.;Stadium;TMNF;31;6650217
-raizo));C09-Race;0:41.09;25/01/2025;.;Stadium;TMNF;32;6170231
-Phip-Lounge;C09-Race;0:39.21;16/07/2025;New cut;Stadium;TMNF;33;4643068
+riolu;C09-Race;0:41.94;22/08/2015;Cheated;Stadium;TMNF;29;73985
+Rollin;C09-Race;0:41.81;08/06/2017;Driven on Vins account/DUCK;Stadium;TMNF;30;1158852
+Nawk;C09-Race;0:41.28;17/10/2019;.;Stadium;TMNF;31;5681322
+dennis090;C09-Race;0:41.19;13/04/2022;.;Stadium;TMNF;32;6650217
+raizo));C09-Race;0:41.09;25/01/2025;.;Stadium;TMNF;33;6170231
+Phip-Lounge;C09-Race;0:39.21;16/07/2025;New cut;Stadium;TMNF;34;4643068
 Rommel;C10-Acrobatic;0:15.06;16/04/2008;.;Stadium;TMNF;1;2699
 ECL~Masango;C10-Acrobatic;0:14.90;16/04/2008;.;Stadium;TMNF;2;6132
 X-ROC divgott;C10-Acrobatic;0:14.88;17/04/2008;.;Stadium;TMNF;3;2744
