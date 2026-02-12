@@ -3052,6 +3052,8 @@ HQCookie;C14 - Valley;44.717;12/01/2026;.;Valley;TM2;17;a
 HQCookie;C14 - Valley;44.703;16/01/2026;.;Valley;TM2;18;a
 HQCookie;C14 - Valley;44.644;16/01/2026;.;Valley;TM2;19;a
 HQCookie;C14 - Valley;44.531;17/01/2026;.;Valley;TM2;20;a
+HQCookie;C14 - Valley;44.520;23/01/2026;.;Valley;TM2;21;a
+HQCookie;C14 - Valley;44.488;02/02/2026;.;Valley;TM2;22;a
 Joltysonic;C15 - Valley;2:46.722;04/08/2013;.;Valley;TM2;1;a
 Joltysonic;C15 - Valley;2:46.155;??/??/????;.;Valley;TM2;2;a
 riolu;C15 - Valley;2:44.475;??/??/2014;Cheated;Valley;TM2;3;a
@@ -3111,6 +3113,7 @@ Mebe12;D03 - Valley;30.391;28/08/2022;.;Valley;TM2;8;a
 Howell;D03 - Valley;30.378;13/09/2023;.;Valley;TM2;9;a
 Mebe12;D03 - Valley;30.364;14/09/2023;.;Valley;TM2;10;a
 Ondra;D03 - Valley;30.356;25/12/2025;.;Valley;TM2;11;a
+HQCookie;D03 - Valley;30.328;26/01/2026;.;Valley;TM2;12;a
 Joltysonic;D04 - Valley;1:00.705;13/07/2013;.;Valley;TM2;1;a
 Lp;D04 - Valley;1:00.630;05/08/2013;.;Valley;TM2;2;a
 Joltysonic;D04 - Valley;0:59.571;16/09/2013;.;Valley;TM2;3;a
@@ -3251,6 +3254,9 @@ Tesla;D13 - Valley;48.425;??/11/2014;New cut;Valley;TM2;4;a
 riolu;D13 - Valley;47.941;19/11/2014;Cheated;Valley;TM2;5;a
 Speed;D13 - Valley;47.832;27/05/2021;DUCK;Valley;TM2;6;a
 AM98;D13 - Valley;47.705;21/04/2025;.;Valley;TM2;7;a
+Ondra;D13 - Valley;47.691;23/01/2026;.;Valley;TM2;8;a
+AM98;D13 - Valley;47.446;23/01/2026;.;Valley;TM2;9;a
+AM98;D13 - Valley;47.272;24/01/2026;.;Valley;TM2;10;a
 Joltysonic;D14 - Valley;1:09.034;07/08/2013;.;Valley;TM2;1;a
 Joltysonic;D14 - Valley;1:07.893;09/08/2013;.;Valley;TM2;2;a
 Shadi;D14 - Valley;1:02.859;??/??/????;.;Valley;TM2;3;a
@@ -3953,6 +3959,7 @@ Speed;C15 - Lagoon;1:53.563;02/04/2023;.;Lagoon;TM2;10;a
 Speed;C15 - Lagoon;1:53.513;02/04/2023;.;Lagoon;TM2;11;a
 Speed;C15 - Lagoon;1:53.377;02/04/2023;.;Lagoon;TM2;12;a
 riolu;C15 - Lagoon;1:53.269;04/08/2023;eddyey;Lagoon;TM2;13;a
+HACookie;C15 - Lagoon,1:53.253;07/02/2026;DUCK;Lagoon;TM2;14;a
 riolu;D01 - Lagoon;37.725;??/05/2017;Cheated;Lagoon;TM2;1;a
 riolu;D01 - Lagoon;37.641;??/07/2017;Cheated;Lagoon;TM2;2;a
 mime;D01 - Lagoon;37.337;14/02/2020;DUCK;Lagoon;TM2;3;a
@@ -5331,6 +5338,7 @@ Fanakuri;064;32.47x;03/02/2021;DUCK;Lagoon;TMT;14;a
 Samerlifofwer;064;32.45x;04/06/2021;.;Lagoon;TMT;15;a
 Samerlifofwer;064;32.40x;??/06/2021;.;Lagoon;TMT;16;a
 Samerlifofwer;064;32.392;10/06/2021;.;Lagoon;TMT;17;a
+Fanakuri;064;32.382;32.282;17/01/2021;.;Lagoon;TMT;18;a
 Purification;065;1:21.387;24/03/2016;.;Lagoon;TMT;1;a
 Lokring;065;1:21.372;25/03/2016;.;Lagoon;TMT;2;a
 RedExtra;065;1:21.277;25/03/2016;.;Lagoon;TMT;3;a
@@ -6249,6 +6257,8 @@ Fanakuri;114;45.844;05/05/2023;DUCK;Stadium;TMT;14;a
 faqez;114;45.695;16/05/2024;.;Stadium;TMT;15;a
 RotakeR;114;45.670;30/05/2024;.;Stadium;TMT;16;a
 RotakeR;114;45.652;02/06/2024;.;Stadium;TMT;17;a
+faqez;114;45.626;27/01/2026;.;Stadium;TMT;18;a
+faqez;114;45.598;28/01/2026;.;Stadium;TMT;19;a
 Spammiej;115;2:01.456;24/03/2016;.;Stadium;TMT;1;a
 Pac;115;1:59.115;25/03/2016;.;Stadium;TMT;2;a
 Nize;115;1:57.887;05/04/2016;.;Stadium;TMT;3;a
@@ -9065,6 +9075,7 @@ Almighty Hefest;D04-Race;0:43.15;20/04/2020;New cut/DUCK;Stadium;TMNF;25;6853602
 Rollin;D04-Race;0:42.39;25/03/2021;.;Stadium;TMNF;26;1158852
 Almighty Hefest;D04-Race;0:42.04;27/03/2021;.;Stadium;TMNF;27;6853602
 Phip-Lounge;D04-Race;0:41.87;23/06/2024;.;Stadium;TMNF;28;4643068
+Fwo.Link;D04-Race;0:41.68;24/01/2026;.;Stadium;TMNF;29;7459137
 SabineGoth;D05-Race;1:12.33;16/04/2008;.;Stadium;TMNF;1;2027
 BluEjAck;D05-Race;1:11.58;16/04/2008;.;Stadium;TMNF;2;2930
 LoG.ism;D05-Race;1:08.99;16/04/2008;.;Stadium;TMNF;3;3963
